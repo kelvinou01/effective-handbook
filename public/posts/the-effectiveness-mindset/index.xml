@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Effective Altruism Handbook You Can Remember</title>
+    <link>https://handbook.kelvinou.com/posts/the-effectiveness-mindset/</link>
+    <description>Recent content on The Effective Altruism Handbook You Can Remember</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jan 2024 21:30:09 +0800</lastBuildDate>
+    <atom:link href="https://handbook.kelvinou.com/posts/the-effectiveness-mindset/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Effectiveness Mindset</title>
+      <link>https://handbook.kelvinou.com/posts/the-effectiveness-mindset/the-effectiveness-mindset/</link>
+      <pubDate>Mon, 22 Jan 2024 21:30:09 +0800</pubDate>
+      <guid>https://handbook.kelvinou.com/posts/the-effectiveness-mindset/the-effectiveness-mindset/</guid>
+      <description>In this chapter we’ll explore why you might want to help others, why it’s so critical to think carefully about how many people are affected by an intervention, and come to terms with the tradeoffs we face in our altruistic efforts.&#xA;Key concepts in this chapter include:&#xA;Scope sensitivity: saving ten lives is more important than saving one, and saving a billion lives is a lot more important than saving ten.</description>
+    </item>
+    <item>
+      <title>About This Handbook</title>
+      <link>https://handbook.kelvinou.com/posts/the-effectiveness-mindset/about-this-handbook/</link>
+      <pubDate>Mon, 22 Jan 2024 21:28:59 +0800</pubDate>
+      <guid>https://handbook.kelvinou.com/posts/the-effectiveness-mindset/about-this-handbook/</guid>
+      <description>Effective altruism (EA) is an ongoing project to find the best ways to do good, and put them into practice.&#xA;Our core goal with this program is to introduce you to some of the principles and thinking tools behind effective altruism. We hope that these tools can help you as you think through how you can best help the world.</description>
+    </item>
+  </channel>
+</rss>
