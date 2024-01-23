@@ -1,10 +1,9 @@
----
-title: "Differences in Impact"
-date: 2024-01-22T21:28:59+08:00
-weight: 20
-# bookComments: false
-# bookSearchExclude: false
----
++++
+title = 'Differences in Impact'
+date = 2024-01-23T01:12:26+08:00
+draft = false
+weight = 20
++++
 
 # Differences in impact
 
