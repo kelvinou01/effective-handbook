@@ -91,6 +91,31 @@ Key concepts in this chapter include:
   *  **Scout mindset:** We’ll be better able to help others if we’re working together to think clearly and orient towards finding the truth, rather than trying to defend our own ideas. Humans naturally aren’t great at this (aside from wanting to defend our own ideas, we have a host of other biases), but if we want to really understand the world, it’s worth seeking the truth and trying to become clearer thinkers.  
 
 
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="What's scope sensitivity?"
+        answer="Saving ten lives is more important than saving one."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="What kinds of tradeoffs will this chapter cover?"
+        answer="How to prioritize between different ways of improving the world."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="What's the scout mindset in a nutshell?"
+        answer="To think more clearly, it's better to truthseek rather than defend our own ideas."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
 
 
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
@@ -113,6 +138,28 @@ Effective altruism was formalized by scholars at Oxford University, but has now 
 People inspired by effective altruism have worked on projects that range from funding the distribution of 200 million malaria nets, to academic research on the future of AI, to campaigning for policies to prevent the next pandemic.
 
 They’re not united by any particular solution to the world’s problems, but by a way of thinking. They try to find _unusually_ good ways of helping, such that a given amount of effort goes an unusually long way. Here are some examples of what they've done so far, followed by the values that unite them:
+
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="Why does effective altruism matter?"
+        answer="Some charities help 100 or 1,000 times as many people as others, when given the same amount of resources. By thinking carefully, we can help alot more. "
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Is Effective Altruism tied to a few cause areas or solutions?"
+        answer="Effective Altruism is about a way of thinking, and not about any particular solution to a problem. EAs have worked on projects that range from funding the distribution of 200 million malaria nets, to academic research on the future of AI, to campaigning for policies to prevent the next pandemic."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
 
 ## What are some examples of effective altruism in practice?
 
@@ -244,6 +291,42 @@ Many global problems are exacerbated by a lack of trustworthy information. [Meta
 
 The [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the University of Oxford does foundational research at the intersection of philosophy and economics into how key decision-makers can identify the world’s most pressing problems. It has helped to create a new academic field of global priorities research, creating a [research agenda](https://globalprioritiesinstitute.org/research-agenda/), publishing [tens of papers](https://globalprioritiesinstitute.org/papers/), and helping to inspire relevant research at Harvard, NYU, UT Austin, Yale, Princeton and elsewhere.
 
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="Why is preventing the next pandemic a big issue?"
+        answer="Much less is spent on preventing pandemics compared to counterterrorism, while the number of deaths due to covid-19 far exceed the number of deaths from terrorism.
+        In effective altruism, once a big and neglected problem has been identified, the community then looks for solutions that have a chance of making a big contribution to solving the problem, and are neglected by others working on that issue"
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Why is providing basic medical supplies in poor countries a big issue?"
+        answer="Over 700 million people live on less than $1.90 per day. In contrast, an American living near the poverty line lives on 20 times as much, and the average American college graduate lives on about 107 times as much. Global inequality is extreme. Because of this, transferring resources to the very poorest people in the world can do a huge amount of good."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Why is AI alignment a big issue?"
+        answer="With rapid progress in artificial intelligence (AI), the goal is to develop AI surpassing human capabilities. The potential consequences, both positive and negative, are compared to the significance of the industrial revolution. If handled well, AI advancements could bring prosperity, but if mismanaged, power could concentrate in the hands of a few, or worse, control could be lost.
+        The AI alignment problem, ensuring AI systems align with human values, is crucial for the future. Despite its significance, only a small number of researchers work on this problem compared to those enhancing AI capabilities. The issue not only impacts the present generation but holds long-term implications, making it a priority from a "longtermist" perspective."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Why is ending factory farming a big issue?"
+        answer="Nearly 10 billion animals live and die in factory farms in the US every year – often unable to physically turn around their entire lives, or castrated without anaesthetic. In the US, about 1,400 times more animals pass through factory farms than pet shelters, but pet shelters receive around $5 billion per year in the US, compared to only $97 million on advocacy to end factory farming "
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Why is improving decision making a big issue?"
+        answer="If key actors — such as politicians, private and third sector leaders, or grantmakers at funding bodies — were generally better at making decisions, society would be in a better position to deal with a whole range of future global problems, whatever they turn out to be."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
+
 ## What values unite effective altruism?
 
 Effective altruism isn't defined by the projects above, and what it focuses on could easily change. What defines effective altruism are some tentative values and principles that underpin its search for the best ways of helping others:
@@ -264,6 +347,24 @@ We’re not totally confident in the above ideas - but we think that they are pr
 Effective altruism can be compared to the scientific method. Science is the use of evidence and reason in search of truth – even if the results are unintuitive or run counter to tradition. Effective altruism is the use of evidence and reason in search of the best ways of doing good.
 
 The scientific method is based on simple ideas (e.g. that you should test your beliefs) but it leads to a radically different picture of the world (e.g. quantum mechanics). Likewise, effective altruism is based on simple ideas – that we should treat people equally and it’s better to help more people than fewer – but it leads to an unconventional and ever-evolving picture of doing good.
+
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="What are the values of Effective Altruism?"
+        answer="Prioritization, impartial altruism, open seeking, and collaborative spirit."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
 
 ## How can you take action?
 
