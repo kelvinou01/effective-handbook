@@ -1,3 +1,14 @@
++++
+title = 'The Effectiveness Mindset'
+date = 2024-01-23T01:12:26+08:00
+draft = false
+weight = 10
++++
+
+# The Effectiveness Mindset
+
+---
+
 # About this handbook
 ## What the program is about[^1]
 
