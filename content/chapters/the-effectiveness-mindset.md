@@ -171,7 +171,7 @@ They’re not united by any particular solution to the world’s problems, but b
       ></orbit-prompt>
       <orbit-prompt
         question="Is effective altruism tied to a few cause areas or solutions?"
-        answer="Effective altruism is about a way of thinking, and not about any particular solution to a problem. EAs have worked on projects that range from funding the distribution of 200 million malaria nets, to academic research on the future of AI, to campaigning for policies to prevent the next pandemic."
+        answer="EA is a way of thinking, and not any particular solution to a problem. EAs have worked on projects from distributing million malaria nets, to AI safety research, to policies to prevent pandemics"
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
@@ -246,7 +246,7 @@ In addition to charity, it’s possible to help the world’s poorest people thr
       <orbit-prompt
         question="Why is preventing the next pandemic a big issue?"
         answer="Pandemics are big in scale, tractable, and unfairly neglected.
-        Much less is spent on preventing pandemics compared to counterterrorism, while the number of deaths due to covid-19 far exceed the number of deaths from terrorism."
+        Much less is spent on preventing pandemics compared to counterterrorism, while the number of deaths due to covid-19 far exceed that of terrorism."
       ></orbit-prompt>
       <orbit-prompt
         cloze="It’s common to say that charity begins at home, but in effective altruism, charity begins {where we can help the most}."
@@ -367,7 +367,7 @@ The [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the
       ></orbit-prompt>
       <orbit-prompt
         question="Why is improving decision making a big issue?"
-        answer="If key actors — such as politicians, private and third sector leaders, or grantmakers at funding bodies — were generally better at making decisions, society would be in a better position to deal with a whole range of future global problems, whatever they turn out to be."
+        answer="If key actors were generally better at making decisions, society would be in a better position to deal with future global problems."
       ></orbit-prompt>
     </orbit-reviewarea>
 
@@ -1308,7 +1308,7 @@ There are [millions of people around the world dying of entirely preventable cau
     <orbit-reviewarea color="blue">
       <orbit-prompt
         question="Why are we in triage every second of every day?"
-        answer="There are millions around the world dying of preventable causes. We are making life and death decisions with the allocation of our resources — pretending there is no choice only makes our decisions worse."
+        answer="We are making life and death decisions with the allocation of our resources — pretending that there is no choice only makes our decisions worse."
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
