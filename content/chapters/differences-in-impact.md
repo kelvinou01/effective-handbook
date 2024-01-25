@@ -8,3 +8,5 @@ weight = 20
 # Differences in impact
 
 Coming soon.
+
+This is some text that users can highlight.

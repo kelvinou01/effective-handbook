@@ -1,0 +1,10 @@
+.user-highlight {
+    padding: 2px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+  
+.persistent-highlight {
+    background-color: #FFFF00;
+    border-bottom: 2px solid #FFFF00;
+}
