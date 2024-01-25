@@ -6,7 +6,7 @@ draft = false
 
 ## The Effective Altruism Handbook You Can Remember (Alpha)
 
-The EA Handbook with spaced-repetition built in.
+The EA Handbook with spaced-repetition built in. This handbook is augmented with a set of prompts to make deep internalization and retention effortless.
 
 We forget most of what we read. [Memory systems make memory into a choice, rather than an event left up to chance](https://numinous.productions/ttft/#summary). However, what if we could embed the benefits of retreival practice — better retention and internalization — right into our mediums of thought?
 
