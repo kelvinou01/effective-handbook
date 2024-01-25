@@ -6,7 +6,7 @@ draft = false
 
 ## The Effective Altruism Handbook You Can Remember (Alpha)
 
-The EA Handbook with spaced-repetition built in. This handbook is augmented with a set of prompts to make deep internalization and retention effortless.
+This handbook is augmented with a set of flashcards to make deep internalization and retention effortless. The flashcards can be accessed centrally on [Orbit](https://withorbit.com/) after you've interacted with them in this text.
 
 We forget most of what we read. [Memory systems make memory into a choice, rather than an event left up to chance](https://numinous.productions/ttft/#summary). However, what if we could embed the benefits of retreival practice — better retention and internalization — right into our mediums of thought?
 
@@ -14,4 +14,4 @@ _This work is licensed under a [Creative Commons Attribution 4.0 International L
 
 ---
 
-See also: [How can we develop transformative tools for thought?](https://numinous.productions/ttft/), [Quantum Country](https://quantum.country/), [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html), [Why books don't work](https://andymatuschak.org/books/).
+See also: [How can we develop transformative tools for thought?](https://numinous.productions/ttft/), [Quantum Country](https://quantum.country/), [Augmenting Long-term Memory](https://augmentingcognition.com/ltm.html), [Why books don't work](https://andymatuschak.org/books/)
