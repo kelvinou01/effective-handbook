@@ -10,25 +10,26 @@ weight = 10
 ---
 
 # About this handbook
+
 ## What the program is about[^1]
 
- **Effective altruism (EA) is an ongoing project to find the best ways to do good, and put them into practice.**
+**Effective altruism (EA) is an ongoing project to find the best ways to do good, and put them into practice.**
 
- **Our core goal with this program is to introduce you to some of the principles and thinking tools behind effective altruism.** We hope that these tools can help you as you think through how you can best help the world.
+**Our core goal with this program is to introduce you to some of the principles and thinking tools behind effective altruism.** We hope that these tools can help you as you think through how you can best help the world.
 
 We also want to share some of the arguments for working on specific problems, like global health or biosecurity. People involved in effective altruism tend to agree that, partly due to uncertainty about which cause is best, we should split our resources between problems. But they don’t agree on what that split should be. **People in the effective altruism community actively discuss and disagree about which causes to prioritize and how** , even though we’ve learned a lot over the last decade. We hope that you will take these ideas seriously and think for yourself about which ways to help are most effective.
 
- **Finally, we give you some time at the end of the program to begin to reflect on how you personally can help to solve these problems.** We don’t expect you’ll have an answer by the end of the eight weeks, but we hope you’re better prepared to explore this further.
+**Finally, we give you some time at the end of the program to begin to reflect on how you personally can help to solve these problems.** We don’t expect you’ll have an answer by the end of the eight weeks, but we hope you’re better prepared to explore this further.
 
 ## What the program involves
 
-Each part of the program has a set of core posts and sometimes an exercise. 
+Each part of the program has a set of core posts and sometimes an exercise.
 
 We think that the core posts take most people about 1-2 hours to get through, and the exercise another 30-60 minutes. We have matched the readings and exercises so that, in total, we think it will take around 2-2.5 hours per week to prepare for the weekly session.
 
 The exercises help you put the concepts from the reading into practice.
 
-Beyond the core posts, there are more materials each week in ‘More to Explore’ — these are all optional and explore the themes of the week in more depth and breadth. 
+Beyond the core posts, there are more materials each week in ‘More to Explore’ — these are all optional and explore the themes of the week in more depth and breadth.
 
 Approximate reading times are given for each of the posts. Generally, we’d prefer you to take your time and think through the readings instead of rushing.
 
@@ -36,48 +37,66 @@ This curriculum was drawn up by staff from the Centre for Effective Altruism, in
 
 ## How we hope you’ll approach the program
 
-###  **Taking ideas seriously**
+### **Taking ideas seriously**
 
-Often, conversations about ideas are recreational: we enjoy batting around interesting thoughts and saying smart things, and then go back to doing whatever we were already doing in our lives. This is a fine thing to do — but at least sometimes, we think we should be asking ourselves questions like: 
+Often, conversations about ideas are recreational: we enjoy batting around interesting thoughts and saying smart things, and then go back to doing whatever we were already doing in our lives. This is a fine thing to do — but at least sometimes, we think we should be asking ourselves questions like:
 
-  * “How could I tell if this idea was true?”
-  * “What evidence would it take to convince me that I was wrong about an idea?”
-  * “If it is true, what does that imply I should be doing differently in my life? What else does it imply I’m wrong about?”
-  * “How might this impact my plans for my career/life?”
+- “How could I tell if this idea was true?”
+- “What evidence would it take to convince me that I was wrong about an idea?”
+- “If it is true, what does that imply I should be doing differently in my life? What else does it imply I’m wrong about?”
+- “How might this impact my plans for my career/life?”
 
+And, zooming out:
 
-
-And, zooming out: 
-
-  * “Where are my blind spots?”
-  * “Which important questions should I be thinking about that I’m not?”
-  * “Do I really know if this idea/plan will help make things better or not?”
-
-
+- “Where are my blind spots?”
+- “Which important questions should I be thinking about that I’m not?”
+- “Do I really know if this idea/plan will help make things better or not?”
 
 Answering these questions can help make our worldviews as accurate and full as possible and, by extension, help us make better decisions about things that we care about.
 
-###  **Disagreements are useful**
+### **Disagreements are useful**
 
 When thoughtful people with access to the same information reach very different conclusions from each other, we should be curious about why and we should actively encourage people to voice and investigate where those disagreements are coming from. If, for example, a medical community is divided on whether Treatment A or B does a better job of curing some disease, they should want to get to the bottom of that disagreement, because the right answer matters — lives are at stake. If you start off disagreeing with someone then change your mind, that can be hard to admit, but we think that should be celebrated. Helping conversations become clearer by changing your mind in response to arguments you find compelling will help the community act to save lives more effectively Even if you don’t expect to end up agreeing with the other person, you’ll learn more if you acknowledge that you disagree and try to _understand_ exactly how and why their views disagree with yours.
 
-###  **Be aware of our privilege and the seriousness of these issues**
+### **Be aware of our privilege and the seriousness of these issues**
 
 We shouldn’t lose sight of our privilege in being able to read and discuss these ideas, or that we are talking about real lives. We’re lucky to be in a position where we can have such a large impact, and this opportunity for impact is the consequence of a profoundly unequal world. Also, be conscious of the fact that people in this program come to these discussions with different ideas, backgrounds, and knowledge. Some of these topics can be uncomfortable to talk about — which is one of the reasons they’re so neglected, and so important to talk about — especially when we may have personal ties to some of these areas.
 
-###  **Explore further**
+### **Explore further**
 
 This handbook aims to introduce people to effective altruism in a structured manner. There are far too many relevant topics, ideas, and research for all but a small fraction of them to fit into this very short program. If you are interested in these topics, you may find it very useful to dive into the linked websites, and the websites those sites link to, and so on.
 
-_This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._  
+_This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
+
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="What are some questions we can ask ourselves to make our worldview more accurate? (Give different answers from last time)"
+        answer="e.g. What are my blind spots? How do I know this is true?"
+      ></orbit-prompt>
+      <orbit-prompt cloze="Even if you don’t end up agreeing with someone, you’ll learn more if you {try to understand exactly how/why they disagree}."></orbit-prompt>
+    </orbit-reviewarea>
+
+  </body>
+</html>
+
+{{< /rawhtml >}}
 
 [^1]: This handbook is also accessible as a Google Doc version [here](https://docs.google.com/document/d/1ju83W3yFqvUBvsSrHadjEwazNBphCTmLWd-xZkVArBM/edit?usp=sharin
-[^2]: Our goal is to introduce people to some of the core principles of effective altruism, to share the arguments for different problems that people in effective altruism work on, and to encourage you to think about what you want to do on the basis of those ideas. We also tried to give a balance of materials that is in line with the (significant) diversity of views on these topics within effective altruism. 
+[^2]: Our goal is to introduce people to some of the core principles of effective altruism, to share the arguments for different problems that people in effective altruism work on, and to encourage you to think about what you want to do on the basis of those ideas. We also tried to give a balance of materials that is in line with the (significant) diversity of views on these topics within effective altruism.
 
     In drawing up the curriculum, we consulted community members, subject matter experts, and program facilitators.
 
     We think that these readings are interesting and give a good introduction, but we hope that you engage with them critically, rather than taking them all at face value. Once you’ve read this curriculum, we encourage you to explore other EA writings (e.g. on [_this wiki_](https://forum.effectivealtruism.org/topics/all)
+
 # The Effectiveness Mindset
+
 > _“We are always in triage. I fervently hope that one day we will be able to save everyone. In the meantime, it is irresponsible to pretend that we aren’t making life and death decisions with the allocation of our resources. Pretending there is no choice only makes our decisions worse."_
 
 \- [_Holly Elmore_](https://forum.effectivealtruism.org/s/B79ro5zkhndbBKRRX/p/vQpk3cxdAe5RX9xzo), explaining the need to prioritize given our limited resources.
@@ -86,10 +105,9 @@ In this chapter we’ll explore why you might want to help others, why it’s so
 
 Key concepts in this chapter include:
 
-  *  **Scope sensitivity:** saving ten lives is more important than saving one, and saving a billion lives is a lot more important than saving ten.
-  *  **Tradeoffs:** Because we have limited time and money, we need to prioritize between different ways to improve the world.
-  *  **Scout mindset:** We’ll be better able to help others if we’re working together to think clearly and orient towards finding the truth, rather than trying to defend our own ideas. Humans naturally aren’t great at this (aside from wanting to defend our own ideas, we have a host of other biases), but if we want to really understand the world, it’s worth seeking the truth and trying to become clearer thinkers.  
-
+- **Scope sensitivity:** saving ten lives is more important than saving one, and saving a billion lives is a lot more important than saving ten.
+- **Tradeoffs:** Because we have limited time and money, we need to prioritize between different ways to improve the world.
+- **Scout mindset:** We’ll be better able to help others if we’re working together to think clearly and orient towards finding the truth, rather than trying to defend our own ideas. Humans naturally aren’t great at this (aside from wanting to defend our own ideas, we have a host of other biases), but if we want to really understand the world, it’s worth seeking the truth and trying to become clearer thinkers.
 
 {{< rawhtml >}}
 
@@ -117,10 +135,10 @@ Key concepts in this chapter include:
 
 {{< /rawhtml >}}
 
-
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 
 # Introduction to Effective Altruism
+
 This is a linkpost for [https://www.effectivealtruism.org/articles/introduction-to-effective-altruism](https://forum-bots.effectivealtruism.org/out?url=https%3A%2F%2Fwww.effectivealtruism.org%2Farticles%2Fintroduction-to-effective-altruism)
 
 ## What is effective altruism?
@@ -148,12 +166,12 @@ They’re not united by any particular solution to the world’s problems, but b
   <body>
     <orbit-reviewarea color="blue">
       <orbit-prompt
-        question="Why does effective altruism matter?"
+        question="Why does *effective* altruism matter?"
         answer="Some charities help 100 or 1,000 times as many people as others, when given the same amount of resources. By thinking carefully, we can help alot more. "
       ></orbit-prompt>
       <orbit-prompt
-        question="Is Effective Altruism tied to a few cause areas or solutions?"
-        answer="Effective Altruism is about a way of thinking, and not about any particular solution to a problem. EAs have worked on projects that range from funding the distribution of 200 million malaria nets, to academic research on the future of AI, to campaigning for policies to prevent the next pandemic."
+        question="Is effective altruism tied to a few cause areas or solutions?"
+        answer="Effective altruism is about a way of thinking, and not about any particular solution to a problem. EAs have worked on projects that range from funding the distribution of 200 million malaria nets, to academic research on the future of AI, to campaigning for policies to prevent the next pandemic."
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
@@ -216,6 +234,37 @@ _**Some examples of what’s been done**_
 Over **110,000 individual donors** have used GiveWell’s research to contribute more than $1 billion to its recommended charities, supporting organisations like the [Against Malaria Foundation](https://www.givewell.org/charities/amf), which has distributed over 200 million insecticide-treated bednets. Collectively these efforts are estimated to have saved **159,000 lives**.[^14]
 
 In addition to charity, it’s possible to help the world’s poorest people through business. [Wave](https://www.wave.com/) is a technology company founded by members of the effective altruism community, which allows people to transfer money to several African countries faster and several times more cheaply than existing services. It’s especially helpful for migrants sending money home to their families, and has been used by over 800,000 people in countries like Kenya, Uganda and Senegal. In Senegal alone, Wave has saved its users hundreds of millions of dollars in transfer fees – around 1% of the country’s GDP.[^15]
+
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="Why is preventing the next pandemic a big issue?"
+        answer="Pandemics are big in scale, tractable, and unfairly neglected.
+        Much less is spent on preventing pandemics compared to counterterrorism, while the number of deaths due to covid-19 far exceed the number of deaths from terrorism."
+      ></orbit-prompt>
+      <orbit-prompt
+        cloze="It’s common to say that charity begins at home, but in effective altruism, charity begins {where we can help the most}."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Why is providing basic medical supplies in poor countries a big issue?"
+        answer="Transferring resources to the very poorest people in the world can do a huge amount of good. 
+        Over 700 million people live on less than $1.90 per day. In contrast, an American living near the poverty line lives on 20 times as much, and the average American college graduate lives on about 107 times as much."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="What does GiveWell do?"
+        answer="Research to find the most evidence-backed and cost-effective health and development projects, contributing more than $1 billion to organizations like the Against Malaria Foundation."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
 
 ### Helping to create the field of AI alignment research
 
@@ -299,29 +348,29 @@ The [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the
   </head>
   <body>
     <orbit-reviewarea color="blue">
-      <orbit-prompt
-        question="Why is preventing the next pandemic a big issue?"
-        answer="Much less is spent on preventing pandemics compared to counterterrorism, while the number of deaths due to covid-19 far exceed the number of deaths from terrorism.
-        In effective altruism, once a big and neglected problem has been identified, the community then looks for solutions that have a chance of making a big contribution to solving the problem, and are neglected by others working on that issue"
+      <orbit-prompt 
+        question="When will AI be as good as, or better than, human beings on all tasks?" 
+        answer="Various arguments and expert surveys suggest this century."
       ></orbit-prompt>
-      <orbit-prompt
-        question="Why is providing basic medical supplies in poor countries a big issue?"
-        answer="Over 700 million people live on less than $1.90 per day. In contrast, an American living near the poverty line lives on 20 times as much, and the average American college graduate lives on about 107 times as much. Global inequality is extreme. Because of this, transferring resources to the very poorest people in the world can do a huge amount of good."
+      <orbit-prompt 
+        question="What will happen once AI can perform at human levels?" 
+        answer="Technological progress will accelerate. A transformation with similar or greater significance to the industrial revolution will entail. "
       ></orbit-prompt>
       <orbit-prompt
         question="Why is AI alignment a big issue?"
-        answer="With rapid progress in artificial intelligence (AI), the goal is to develop AI surpassing human capabilities. The potential consequences, both positive and negative, are compared to the significance of the industrial revolution. If handled well, AI advancements could bring prosperity, but if mismanaged, power could concentrate in the hands of a few, or worse, control could be lost.
-        The AI alignment problem, ensuring AI systems align with human values, is crucial for the future. Despite its significance, only a small number of researchers work on this problem compared to those enhancing AI capabilities. The issue not only impacts the present generation but holds long-term implications, making it a priority from a "longtermist" perspective."
+        answer="Human-level AI is probably coming within this century. If handled well, AI advancements could bring prosperity, but if mismanaged, power could concentrate in the hands of a few, or worse, control could be lost."
       ></orbit-prompt>
       <orbit-prompt
         question="Why is ending factory farming a big issue?"
-        answer="Nearly 10 billion animals live and die in factory farms in the US every year – often unable to physically turn around their entire lives, or castrated without anaesthetic. In the US, about 1,400 times more animals pass through factory farms than pet shelters, but pet shelters receive around $5 billion per year in the US, compared to only $97 million on advocacy to end factory farming "
+        answer="In the US, nearly 10 billion animals suffer in factory farms in the US every year.
+        Also, about 1,400 times more animals pass through factory farms than pet shelters, but pet shelters receive much more funding."
       ></orbit-prompt>
       <orbit-prompt
         question="Why is improving decision making a big issue?"
         answer="If key actors — such as politicians, private and third sector leaders, or grantmakers at funding bodies — were generally better at making decisions, society would be in a better position to deal with a whole range of future global problems, whatever they turn out to be."
       ></orbit-prompt>
     </orbit-reviewarea>
+
   </body>
 </html>
 
@@ -331,16 +380,13 @@ The [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the
 
 Effective altruism isn't defined by the projects above, and what it focuses on could easily change. What defines effective altruism are some tentative values and principles that underpin its search for the best ways of helping others:
 
-  1. **Prioritization:** Our [intuitions](https://en.wikipedia.org/wiki/Scope_neglect) about doing good don't usually take into account the scale of the outcomes — helping 100 people often makes us feel as satisfied as helping 1000. But since some ways of doing good also achieve dramatically more than others, it’s vital to attempt to use numbers to roughly weigh how much different actions help. The goal is to find _the best_ ways to help, rather than just working to make any difference at all.
+1. **Prioritization:** Our [intuitions](https://en.wikipedia.org/wiki/Scope_neglect) about doing good don't usually take into account the scale of the outcomes — helping 100 people often makes us feel as satisfied as helping 1000. But since some ways of doing good also achieve dramatically more than others, it’s vital to attempt to use numbers to roughly weigh how much different actions help. The goal is to find _the best_ ways to help, rather than just working to make any difference at all.
 
-  2. **Impartial altruism:** It's easy — and reasonable — to have special concern for one's own family, friends or nation. But, when trying to do as much good as possible, it seems that we should give everyone's interests equal weight, no matter where or when they live. This means focusing on the groups who are most neglected, which usually means focusing on those who don’t have as much power to protect their own interests.
+2. **Impartial altruism:** It's easy — and reasonable — to have special concern for one's own family, friends or nation. But, when trying to do as much good as possible, it seems that we should give everyone's interests equal weight, no matter where or when they live. This means focusing on the groups who are most neglected, which usually means focusing on those who don’t have as much power to protect their own interests.
 
-  3. **Open truthseeking:** Rather than starting with a commitment to a certain cause, community or approach, it’s important to consider many different ways to help and seek to find the best ones. This means putting serious time into deliberation and reflection on one’s beliefs, being constantly open and curious for new evidence and arguments, and being ready to change one’s views quite radically.
+3. **Open truthseeking:** Rather than starting with a commitment to a certain cause, community or approach, it’s important to consider many different ways to help and seek to find the best ones. This means putting serious time into deliberation and reflection on one’s beliefs, being constantly open and curious for new evidence and arguments, and being ready to change one’s views quite radically.
 
-  4. **Collaborative spirit:** It’s often possible to achieve more by working together, and doing this effectively requires high standards of honesty, integrity, and compassion. Effective altruism does not mean supporting ‘ends justify the means’ reasoning, but rather is about being a good citizen, while working toward a better world.
-
-
-
+4. **Collaborative spirit:** It’s often possible to achieve more by working together, and doing this effectively requires high standards of honesty, integrity, and compassion. Effective altruism does not mean supporting ‘ends justify the means’ reasoning, but rather is about being a good citizen, while working toward a better world.
 
 We’re not totally confident in the above ideas - but we think that they are probably right, and that they are undervalued by much of society. Anyone who is trying to find better ways to help others is participating in effective altruism. This is true no matter how much time or money they want to give, or which issue they choose to focus on.
 
@@ -360,6 +406,13 @@ The scientific method is based on simple ideas (e.g. that you should test your b
         question="What are the values of Effective Altruism?"
         answer="Prioritization, impartial altruism, open seeking, and collaborative spirit."
       ></orbit-prompt>
+      <orbit-prompt
+        cloze="Prioritization: The goal is to find {the best ways to help}, rather than just working to make any difference at all."
+      ></orbit-prompt>
+     <orbit-prompt
+        question="Say you spot a morally questionable opportunity to make a huge positive impact in a certain area, e.g. crashing a market and donating the profits to effective charities. Does the ends justify the means?"
+        answer="No. EA is about being a good citizen, while working toward a better world."
+      ></orbit-prompt>
     </orbit-reviewarea>
   </body>
 </html>
@@ -370,16 +423,13 @@ The scientific method is based on simple ideas (e.g. that you should test your b
 
 People interested in effective altruism most often attempt to apply the ideas in their lives by:
 
-  * Choosing careers that help tackle pressing problems, or by finding ways to use their existing skills to contribute to these problems, such as by using advice from [80,000 Hours](https://80000hours.org/).
+- Choosing careers that help tackle pressing problems, or by finding ways to use their existing skills to contribute to these problems, such as by using advice from [80,000 Hours](https://80000hours.org/).
 
-  * Donating to carefully chosen charities, such as by using research from [GiveWell](https://www.givewell.org/) or [Giving What We Can](https://www.givingwhatwecan.org/best-charities-to-donate-to-2022).
+- Donating to carefully chosen charities, such as by using research from [GiveWell](https://www.givewell.org/) or [Giving What We Can](https://www.givingwhatwecan.org/best-charities-to-donate-to-2022).
 
-  * [Starting new organizations](https://80000hours.org/career-reviews/founder-impactful-organisations/#lists-of-ideas) that help to tackle pressing problems.
+- [Starting new organizations](https://80000hours.org/career-reviews/founder-impactful-organisations/#lists-of-ideas) that help to tackle pressing problems.
 
-  * Helping to build communities tackling pressing problems.
-
-
-
+- Helping to build communities tackling pressing problems.
 
 See a [longer list of ways to take action](https://forum.effectivealtruism.org/topics/take-action).
 
@@ -396,9 +446,10 @@ By doing this and thinking carefully, you might find it’s possible to have far
     Logarithmic returns imply that if 10 times more has been invested in one cause compared to another, then additional resources will achieve about 1/10 as much progress.
 
     If the two issues are equally important, and then an additional person working on the more neglected one will have ten times the impact
+
 [^5]: From 2010 to 2019, US Federal Funding for Health Security is estimated at $141 billion. We judge that 55% of this was spent on what could arguably prevent future pandemics. For example, 4% was spent tackling the ongoing ebola epidemic, which provided infrastructure for potential other pandemics. However, 17% was spent on chemical and nuclear radiation threats in a way unlikely to affect future pandemic spread.
 
-    141 billion * 0.55 = 79 billion
+    141 billion \* 0.55 = 79 billion
 
     Annualized over the ten year period is $8 billion per year.
 
@@ -411,7 +462,7 @@ By doing this and thinking carefully, you might find it’s possible to have far
     5.8 trillion / 20 years = $290 billion per year.
 
     [United States budgetary costs of Post-9/11 wars](https://watson.brown.edu/costsofwar/files/cow/imce/papers/2021/Costs%20of%20War_U.S.%20Budgetary%20Costs%20of%20Post-9%2011%20Wars_9.1.21.pdf) Crawford, Neta C., Watson Institute for International & Public Affairs, Brown University, 2021. [Archived link](https://web.archive.org/web/20220726160700/https://watson.brown.edu/costsofwar/files/cow/imce/papers/2021/Costs%20of%20War_U.S.%20Budgetary%20Costs%20of%20Post-9%2011%20Wars_9.1.21.pdf), accessed 26 July 2022
-[^6]: Deaths from terrorism from 1970-2020 were approximately 456,000. This is from the [Global Terrorism Database 2020](https://web.archive.org/web/20220811132237/https://www.start.umd.edu/gtd/search/Results.aspx?chart=fatalities&casualties_type=&casualties_max=), accessed 11 August 2022.
+    [^6]: Deaths from terrorism from 1970-2020 were approximately 456,000. This is from the [Global Terrorism Database 2020](https://web.archive.org/web/20220811132237/https://www.start.umd.edu/gtd/search/Results.aspx?chart=fatalities&casualties_type=&casualties_max=), accessed 11 August 2022.
 
     Note that Our World in Data says "The Global Terrorism Database is the most comprehensive dataset on terrorist attacks available and recent data is complete. However, we expect, based on our analysis, that longer-term data is incomplete (with the exception of the US and Europe). We therefore do not recommend this dataset for the inference of long-term trends in the prevalence of terrorism globally."
 
@@ -438,17 +489,17 @@ By doing this and thinking carefully, you might find it’s possible to have far
     Given that terrorism receives ~100x more funding than pandemic prevention, while pandemics seem to have caused 10-100x more deaths historically, the corrections would need to be very heavily in favour of terrorism in order for the current allocation of resources to seem more balanced.
 
     The above analysis was just in terms of the number of deaths, since that’s an important yet relatively measurable metric. Deaths due to both pandemics and terrorism also produce important indirect costs, and a fuller comparison would attempt to consider the relative scale of each
-[^7]: > “40.1 million [33.6 million–48.6million] people have died from AIDS-related illnesses since the start of the epidemic.”
+    [^7]: > “40.1 million [33.6 million–48.6million] people have died from AIDS-related illnesses since the start of the epidemic.”
 
     [Global HIV & AIDS statistics — Fact sheet](https://www.unaids.org/en/resources/fact-sheet) UNAIDS, 2022. [Archived link](https://web.archive.org/web/20220811142820/https://www.unaids.org/en/resources/fact-sheet), accessed 11 August 2022
-[^8]: Open Philanthropy is a foundation inspired by effective altruism. They first funded the Johns Hopkins Centre for Health Security (CHS) [in 2016](https://web.archive.org/web/20220728171005/https://www.openphilanthropy.org/grants/johns-hopkins-center-for-health-security-emerging-leaders-in-biosecurity-initiative/). This was followed by several other large grants, including one for [$16m in 2017](https://web.archive.org/web/20220728171246/https://www.openphilanthropy.org/grants/johns-hopkins-center-for-health-security-biosecurity-global-health-security-and-global-catastrophic-risks-2017/) and another for [$19.5m in 2019](https://web.archive.org/web/20220728171354/https://www.openphilanthropy.org/grants/johns-hopkins-center-for-health-security-biosecurity-global-health-security-and-global-catastrophic-risks-2019/)
-[^9]: 38,659 volunteers, as of 7 July 2022. [1Day Sooner](https://web.archive.org/web/20220707165739/https://www.1daysooner.org/
-[^10]: Before COVID-19, the number of people living on less that $1.90 per day had decreased to 689 million in 2017. However, estimates now point to the first rise in the extreme poverty rate since 1998, leading to an estimated 731 million people now living on less than $1.90 per day.
+    [^8]: Open Philanthropy is a foundation inspired by effective altruism. They first funded the Johns Hopkins Centre for Health Security (CHS) [in 2016](https://web.archive.org/web/20220728171005/https://www.openphilanthropy.org/grants/johns-hopkins-center-for-health-security-emerging-leaders-in-biosecurity-initiative/). This was followed by several other large grants, including one for [$16m in 2017](https://web.archive.org/web/20220728171246/https://www.openphilanthropy.org/grants/johns-hopkins-center-for-health-security-biosecurity-global-health-security-and-global-catastrophic-risks-2017/) and another for [$19.5m in 2019](https://web.archive.org/web/20220728171354/https://www.openphilanthropy.org/grants/johns-hopkins-center-for-health-security-biosecurity-global-health-security-and-global-catastrophic-risks-2019/)
+    [^9]: 38,659 volunteers, as of 7 July 2022. [1Day Sooner](https://web.archive.org/web/20220707165739/https://www.1daysooner.org/
+    [^10]: Before COVID-19, the number of people living on less that $1.90 per day had decreased to 689 million in 2017. However, estimates now point to the first rise in the extreme poverty rate since 1998, leading to an estimated 731 million people now living on less than $1.90 per day.
 
-    [UN SDG 1 - End poverty in all its forms](https://unstats.un.org/sdgs/report/2021/goal-01/). UN Statistics, 2022. [Archived link](javascript:void\(0\)), accessed 26 July 2022.
+    [UN SDG 1 - End poverty in all its forms](https://unstats.un.org/sdgs/report/2021/goal-01/). UN Statistics, 2022. [Archived link](<javascript:void(0)>), accessed 26 July 2022.
 
     These estimates have been adjusted for the fact that money goes further in poor countries (purchasing parity). There are many complications to the estimates, but it’s clear that hundreds of millions of people live at near subsidence levels of income. See “[how accurately does anyone know the global distribution of income?](https://web.archive.org/web/20220728171308/https://80000hours.org/2017/04/how-accurately-does-anyone-know-the-global-distribution-of-income/)” if you’d like to learn more
-[^11]: The US poverty line for 1 person is an annual income of [$13,590](https://web.archive.org/web/20220728171458/https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines).
+    [^11]: The US poverty line for 1 person is an annual income of [$13,590](https://web.archive.org/web/20220728171458/https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines).
 
     13,590 / 365 = $37.23 per day.
 
@@ -463,7 +514,7 @@ By doing this and thinking carefully, you might find it’s possible to have far
     According to [SmartAsset](https://smartasset.com/taxes/income-taxes#PgAT7oh2Ae), a single person household earning $74,000 pre-tax and living in New York, receives about $53,000 post-tax.
 
     According to Giving What We Can’s [calculator](https://web.archive.org/web/20220728165745/https://howrichami.givingwhatwecan.org/how-rich-am-i?income=53000&countryCode=USA&household%5Badults%5D=1&household%5Bchildren%5D=0), a post-tax income of $53,000 puts you in the top 1.3% of income globally
-[^12]: The UK’s National Institute for Health and Care Excellence recommends spending up to £30,000 per [quality-adjusted life year](https://en.wikipedia.org/wiki/Quality-adjusted_life_year) (QALY) gained, where the intervention is reliable.
+    [^12]: The UK’s National Institute for Health and Care Excellence recommends spending up to £30,000 per [quality-adjusted life year](https://en.wikipedia.org/wiki/Quality-adjusted_life_year) (QALY) gained, where the intervention is reliable.
 
     “Above a most plausible ICER of £30,000 per QALY gained, advisory bodies will need to make an increasingly stronger case for supporting the intervention as an effective use of NHS resources” [Methods for the development of NICE public health guidance](https://www.nice.org.uk/process/pmg4/chapter/incorporating-health-economics). UK National Institute for Health and Care Excellence, September 2012. [Archived link](https://web.archive.org/web/20220728173611/https://www.nice.org.uk/process/pmg4/chapter/incorporating-health-economics), accessed July 28, 2022.
 
@@ -472,16 +523,16 @@ By doing this and thinking carefully, you might find it’s possible to have far
     This amounts to a cost of saving a life of 30 x £30,000 = £900,000 = $1.1 million.
 
     In the US, different global agencies estimate “[the value of life](https://en.wikipedia.org/wiki/Value_of_life)”, and use this figure in the prioritization of different spending projects. The Federal Emergency Management Agency estimated the value of life at [$7.5 million](https://web.archive.org/web/20220516225829/https://www.fema.gov/sites/default/files/2020-08/fema_bca_toolkit_release-notes-july-2020.pdf) in 2020. This estimate has fluctuated based on the context. For example, the US Department of Transport estimated the value of life to be between [$5.2 million and $13.0 million](https://web.archive.org/web/20220728173630/https://www.transportation.gov/sites/dot.gov/files/docs/VSL_Guidance_2014.pdf) in 2014
-[^13]: GiveWell's estimates of the cost to save a life have varied over time (depending on their research, and which opportunities are available), but have typically fallen within $2,500 to $7,500. In 2021, GiveWell estimated that $5500 spent on distributing insecticide-treated bednets will save one life in expectation.
+    [^13]: GiveWell's estimates of the cost to save a life have varied over time (depending on their research, and which opportunities are available), but have typically fallen within $2,500 to $7,500. In 2021, GiveWell estimated that $5500 spent on distributing insecticide-treated bednets will save one life in expectation.
 
     You can see their most up-to-date estimates in their full cost-effectiveness analysis: [How We Produce Impact Estimates](https://www.givewell.org/impact-estimates) GiveWell, July 2022. [Archived link](https://web.archive.org/web/20220728173731/https://www.givewell.org/impact-estimates), accessed 28 July 2022
-[^14]: > “More than 110,000 donors have trusted GiveWell to direct their donations. Together, they have given over $1 billion to the organizations we recommend. These donations will save over 150,000 lives and provide cash grants of over $175 million to the global poor.”
+    [^14]: > “More than 110,000 donors have trusted GiveWell to direct their donations. Together, they have given over $1 billion to the organizations we recommend. These donations will save over 150,000 lives and provide cash grants of over $175 million to the global poor.”
 
     [About GiveWell](https://www.givewell.org/about), GiveWell, July 2022. [Archived link](https://web.archive.org/web/20220728173759/https://www.givewell.org/about), accessed 28 July 2022
-[^15]: > “When Wave launched in Senegal, our average transfer would have cost 3-5x more if done via the largest existing mobile money system. Multiplied by our millions of monthly active users, that comes out to a savings of over $200 million every year, … around 1% of Senegal’s GDP.”
+    [^15]: > “When Wave launched in Senegal, our average transfer would have cost 3-5x more if done via the largest existing mobile money system. Multiplied by our millions of monthly active users, that comes out to a savings of over $200 million every year, … around 1% of Senegal’s GDP.”
 
     [Working at Wave is an extremely effective way to improve the world](https://www.wave.com/en/blog/world/). Ben Kuhn, July 8 2021. [Archived link](https://web.archive.org/web/20220726160441/https://www.wave.com/en/blog/world/), accessed 26 July 2022
-[^16]: Conversation: "Our best end-to-end trained Meena model achieves a… SSA [Sensibleness and Specificity Average] score of 72%... our SSA score of 72% is not far from the 86% SSA achieved by the average person.” [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html). Adiwardana et. al., Google, 28 January 2020. [Archived link](https://web.archive.org/web/20220728174004/https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html), accessed 28 July 2022.
+    [^16]: Conversation: "Our best end-to-end trained Meena model achieves a… SSA [Sensibleness and Specificity Average] score of 72%... our SSA score of 72% is not far from the 86% SSA achieved by the average person.” [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html). Adiwardana et. al., Google, 28 January 2020. [Archived link](https://web.archive.org/web/20220728174004/https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html), accessed 28 July 2022.
 
     Math: The graphs in the attached article show Google’s Minerva accurately answers over 50% of “high school math competition-level problems”. Other state-of-the-art models were achieving less than 10% accuracy.
 
@@ -498,7 +549,7 @@ By doing this and thinking carefully, you might find it’s possible to have far
     Images: Example images from OpenAI’s Dall-E 2 can be seen [here](https://web.archive.org/web/20220728174215/https://openai.com/dall-e-2/).
 
     Coding: Section 3.1 in Salesforce’s [‘A Conversational Paradigm for Program Synthesis‘](https://web.archive.org/web/20220404070940/http://arxiv.org/pdf/2203.13474.pdf) research paper about CodeGen, their AI tool turning human instructions into code, outlines that CodeGen achieves a 75% HumanEval score, meaning it can solve 75% of the programming challenges described with normal human language in the [HumanEval set](https://web.archive.org/web/20211011051701/https://paperswithcode.com/dataset/humaneval)
-[^17]: It’s difficult to estimate the number of researchers focused on a certain topic since it’s hard to define the topic in the first place, many researchers work on multiple topics, and it’s hard to know the bar for ‘being a researcher’. So these numbers should be understood as estimates to within a factor of three or so, and they could be out by an order of magnitude depending on some interpretations of the question.
+    [^17]: It’s difficult to estimate the number of researchers focused on a certain topic since it’s hard to define the topic in the first place, many researchers work on multiple topics, and it’s hard to know the bar for ‘being a researcher’. So these numbers should be understood as estimates to within a factor of three or so, and they could be out by an order of magnitude depending on some interpretations of the question.
 
     In 2020, 87,000 authors published AI research on arXiv. The [2020 Global AI Talent Report](https://web.archive.org/web/20201101062242/https://jfgagne.ai/global-ai-talent-report-2020/#anchor-5) from Element AI estimates there are even more people than this working on AI development globally, with 155,000 people labelled on social media as working in AI research or engineering. However we expect some working in AI engineering to not be working on engineering new advancements in AI. We have taken the smaller estimate of 87,000 and roughly halved it for an estimate of 40,000.
 
@@ -507,13 +558,13 @@ By doing this and thinking carefully, you might find it’s possible to have far
     [AI Watch](https://web.archive.org/web/20220728170925/https://aiwatch.issarice.com/) attempted a headcount of AI Safety researchers, which found 160 notable researchers who have worked on AI Safety. This includes many people who have not published on AI safety in over a year, whereas for the estimate of 87,000 above, all had published in the last year. On the other hand, the bar for being a ‘notable’ researcher might be higher than publishing in arXiv.
 
     Our final estimate is 300 researchers focused on AI safety
-[^18]: In 2018, 9.56 billion farm animals were slaughtered for meat in the US. This number has likely risen since then. This includes 9.16 billion chickens; 237 million turkey; 125 million pigs; 34 million cattle and 2 million sheep. Source: visualization at [Our World in Data](https://ourworldindata.org/meat-production#number-of-animals-slaughtered), using data from the [UN Food and Agriculture Organization](https://web.archive.org/web/20220811152257/https://www.fao.org/faostat/en/)
-[^19]: In 2021, approximately 6.5 million animals passed through animal shelters in the US. In 2011, this number was 7.2 million. Assuming a steady decline, this means in 2018 there were approximately 6.7 million animals passing through animal shelters.
+    [^18]: In 2018, 9.56 billion farm animals were slaughtered for meat in the US. This number has likely risen since then. This includes 9.16 billion chickens; 237 million turkey; 125 million pigs; 34 million cattle and 2 million sheep. Source: visualization at [Our World in Data](https://ourworldindata.org/meat-production#number-of-animals-slaughtered), using data from the [UN Food and Agriculture Organization](https://web.archive.org/web/20220811152257/https://www.fao.org/faostat/en/)
+    [^19]: In 2021, approximately 6.5 million animals passed through animal shelters in the US. In 2011, this number was 7.2 million. Assuming a steady decline, this means in 2018 there were approximately 6.7 million animals passing through animal shelters.
 
     9.56 billion / 6.7 million = 1427 times as many animals in factory farms.
 
     [Pet Statistics](https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics). American Society for the Prevention of Cruelty to Animals, 2021. [Archived link](https://web.archive.org/web/20210805170626/https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics), accessed August 2021
-[^20]: Animal shelter spending:
+    [^20]: Animal shelter spending:
 
     Andrew Rowan calculated $5 billion of funding to the top 3000 animal shelter organizations in the US in 2018, published in his paper [“Cat Demographics & Impact on Wildlife in the USA, the UK, Australia and New Zealand: Facts and Values”](https://www.researchgate.net/publication/335325531_Cat_Demographics_Impact_on_Wildlife_in_the_USA_the_UK_Australia_and_New_Zealand_Facts_and_Values) Rowan et. al. (2020), Journal of Applied Animal Ethics Research, pages 7–37.
 
@@ -523,22 +574,22 @@ By doing this and thinking carefully, you might find it’s possible to have far
 
     Research from Open Philanthropy published [here](https://docs.google.com/spreadsheets/d/19vdy-QojtXXcgXVUIYqbCREpX7dnQqSRPTgcly8trXA/edit#gid=1364826426) finds the following funding for farm animal advocacy groups in 2018:
 
-      * $32.3 million for Established US groups (PETA, PCRM, HSUS, ALDF, ASPCA)
-      * $32.6 million for new, major US-based groups (CIWF, WAP, RSPCA, HSI)
-      * $32.2 million for all other US groups
+    - $32.3 million for Established US groups (PETA, PCRM, HSUS, ALDF, ASPCA)
+    - $32.6 million for new, major US-based groups (CIWF, WAP, RSPCA, HSI)
+    - $32.2 million for all other US groups
 
-
-
-    32.3 + 32.6 + 32.2 = $97.1 millio
-[^21]: $32.3 million for Established US groups (PETA, PCRM, HSUS, ALDF, ASPC
-[^22]: $32.6 million for new, major US-based groups (CIWF, WAP, RSPCA, HS
-[^23]: $32.2 million for all other US grou
-[^24]: 106.5 million hens are now in cage-free housing in the US alone as of May 2022, as reported by the [USDA Egg Markets Overview](https://web.archive.org/web/20220728174554/https://www.ams.usda.gov/sites/default/files/media/Egg%20Markets%20Overview.pdf), compared to [17 million in 2016](https://web.archive.org/web/20160823231743/https://www.ams.usda.gov/sites/default/files/media/Egg%20Markets%20Overview.pdf). We believe another 100 million have become cage-free in Europe as a result of Open Wing Alliance’s work, although this number is harder to attribute to them specifically.
+      32.3 + 32.6 + 32.2 = $97.1 millio
+      [^21]: $32.3 million for Established US groups (PETA, PCRM, HSUS, ALDF, ASPC
+      [^22]: $32.6 million for new, major US-based groups (CIWF, WAP, RSPCA, HS
+      [^23]: $32.2 million for all other US grou
+      [^24]: 106.5 million hens are now in cage-free housing in the US alone as of May 2022, as reported by the [USDA Egg Markets Overview](https://web.archive.org/web/20220728174554/https://www.ams.usda.gov/sites/default/files/media/Egg%20Markets%20Overview.pdf), compared to [17 million in 2016](https://web.archive.org/web/20160823231743/https://www.ams.usda.gov/sites/default/files/media/Egg%20Markets%20Overview.pdf). We believe another 100 million have become cage-free in Europe as a result of Open Wing Alliance’s work, although this number is harder to attribute to them specifically.
 
     In addition, advocates have now secured corporate pledges that, if implemented, should cover more than 500 million hens alive at any time
-[^25]: After engagement with GFI, the US government announced a $10 million grant to create a center of excellence in cellular agriculture at Tufts University. The UK’s independent National Food Strategy recommended a £125 million investment in alternative protein research and innovation. Source: [GFI Year in Review 2021](https://web.archive.org/web/20220728174648/https://gfi.org/wp-content/uploads/2022/03/GFI_Year-in-Review_2021_v2.pdf) (page 3
-[^26]: The full timeline of forecasts can be found on [Metaculus](https://web.archive.org/web/20220228132434/https://www.metaculus.com/questions/8898/russian-invasion-of-ukraine-before-2023/)
+    [^25]: After engagement with GFI, the US government announced a $10 million grant to create a center of excellence in cellular agriculture at Tufts University. The UK’s independent National Food Strategy recommended a £125 million investment in alternative protein research and innovation. Source: [GFI Year in Review 2021](https://web.archive.org/web/20220728174648/https://gfi.org/wp-content/uploads/2022/03/GFI_Year-in-Review_2021_v2.pdf) (page 3
+    [^26]: The full timeline of forecasts can be found on [Metaculus](https://web.archive.org/web/20220228132434/https://www.metaculus.com/questions/8898/russian-invasion-of-ukraine-before-2023/)
+
 # Four Ideas You Already Agree With
+
 This is a linkpost for [https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism](https://forum-bots.effectivealtruism.org/out?url=https%3A%2F%2Fwww.givingwhatwecan.org%2Fblog%2Ffour-things-you-already-agree-with-effective-altruism)
 
 Here are four ideas that you probably already agree with. Three are about your values, and one is an observation about the world. Individually, they each might seem a bit trite or self-evident. But taken together, they have significant implications for how we think about doing good in the world.
@@ -547,23 +598,19 @@ Here are four ideas that you probably already agree with. Three are about your v
 
 The four ideas are as follows:
 
-  1.  **It's important to help others** — when people are in need and we can help them, we think that we should. Sometimes we think it might even be morally required: most people think that millionaires should give something back. But it may surprise you to learn that those of us on or above the median wage in a rich country are [typically part of the global 5%](https://www.givingwhatwecan.org/get-involved/how-rich-am-i)[^27] — maybe we can also afford to give back too.
-  2.  **People** [^28] **are equal** — everyone has an equal claim to being happy, healthy, fulfilled and [free](http://www.dictionaryofobscuresorrows.com/post/23536922667/sonder), whatever their circumstances. All people matter, wherever they live, however rich they are, and whatever their ethnicity, age, gender, ability, religious views, etc.
-  3.  **Helping more is better than helping less** — all else being equal, we should save more lives, help people live longer, and make more people happier. Imagine twenty sick people lining a hospital ward, who’ll die if you don’t give them medicine. You have enough medicine for everyone, and no reason to hold onto it for later: would anyone really choose to arbitrarily save only _some_ of the people if it was just as easy to save _all_ of them?
-  4.  **Our resources are limited** — even millionaires have a finite amount of money they can spend. This is also true of our time — there are never enough hours in the day. Choosing to spend money or time on one option is an implicit choice [not to spend it on other options](https://en.wikipedia.org/wiki/Opportunity_cost) (whether we think about these options or not).
-
-
+1.  **It's important to help others** — when people are in need and we can help them, we think that we should. Sometimes we think it might even be morally required: most people think that millionaires should give something back. But it may surprise you to learn that those of us on or above the median wage in a rich country are [typically part of the global 5%](https://www.givingwhatwecan.org/get-involved/how-rich-am-i)[^27] — maybe we can also afford to give back too.
+2.  **People** [^28] **are equal** — everyone has an equal claim to being happy, healthy, fulfilled and [free](http://www.dictionaryofobscuresorrows.com/post/23536922667/sonder), whatever their circumstances. All people matter, wherever they live, however rich they are, and whatever their ethnicity, age, gender, ability, religious views, etc.
+3.  **Helping more is better than helping less** — all else being equal, we should save more lives, help people live longer, and make more people happier. Imagine twenty sick people lining a hospital ward, who’ll die if you don’t give them medicine. You have enough medicine for everyone, and no reason to hold onto it for later: would anyone really choose to arbitrarily save only _some_ of the people if it was just as easy to save _all_ of them?
+4.  **Our resources are limited** — even millionaires have a finite amount of money they can spend. This is also true of our time — there are never enough hours in the day. Choosing to spend money or time on one option is an implicit choice [not to spend it on other options](https://en.wikipedia.org/wiki/Opportunity_cost) (whether we think about these options or not).
 
 I think that these four ideas are all pretty uncontroversial. I think it seems pretty intuitive that we should help people in need if we can; that we shouldn’t arbitrarily preference some groups of people over others; that we would prefer to help more people if given the option; and that we don’t have infinite time and money.
 
 In fact I’d go further — I’d say that we’d feel pretty uncomfortable trying to [defend the alternative positions](https://en.wikipedia.org/wiki/Reversal_test) if we were talking to someone, namely:
 
-  1. Helping others in need isn’t morally required, important, or even that good
-  2. It’s OK to value people differently based on arbitrary differences like race, gender, ability etc.
-  3. It doesn’t matter if some people die even if it doesn’t really cost us anything extra to save their lives
-  4. We have unlimited resources
-
-
+1. Helping others in need isn’t morally required, important, or even that good
+2. It’s OK to value people differently based on arbitrary differences like race, gender, ability etc.
+3. It doesn’t matter if some people die even if it doesn’t really cost us anything extra to save their lives
+4. We have unlimited resources
 
 See what I mean?
 
@@ -603,24 +650,46 @@ So please, think carefully about these ideas — the importance of altruism, equ
 
 If they do, then the next time you think about how to make the world a better place, give voice to these values by thinking _effectively_ , as well as altruistically.
 
- **Some resources for learning more about effective altruism:**
+**Some resources for learning more about effective altruism:**
 
-  * [What is Effective Altruism?](https://www.givingwhatwecan.org/what-is-effective-altruism)
-  * This really quick [summary of effective altruism](http://web.archive.org/web/20171111054827/http:/www.ethics.org.au/on-ethics/blog/january-2016/effective-altruism)
-  * The [Wikipedia entry on effective altruism](https://en.wikipedia.org/wiki/Effective_altruism)
-  * [Doing Good Better](http://www.effectivealtruism.com/) by Will MacAskill
-  * The [Effective Altruism Handbook](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/)
+- [What is Effective Altruism?](https://www.givingwhatwecan.org/what-is-effective-altruism)
+- This really quick [summary of effective altruism](http://web.archive.org/web/20171111054827/http:/www.ethics.org.au/on-ethics/blog/january-2016/effective-altruism)
+- The [Wikipedia entry on effective altruism](https://en.wikipedia.org/wiki/Effective_altruism)
+- [Doing Good Better](http://www.effectivealtruism.com/) by Will MacAskill
+- The [Effective Altruism Handbook](http://effective-altruism.com/ea/hx/effective_altruism_handbook_now_online/)
 
+**Some actions you can take that we think are really effective**
 
+- [Donate](https://www.givingwhatwecan.org/best-charities-to-donate-to-2022) to a charity recommended on the basis of its impact and cost-effectiveness — check out our [Top Charities](https://www.givingwhatwecan.org/best-charities-to-donate-to-2022), and [GiveWell’s recommendations](http://www.givewell.org/charities/top-charities). If you’d like to support charities that increase the welfare of non-human animals effectively, check out [Animal Charity Evaluators](http://www.animalcharityevaluators.org/).
+- [Pledge](https://www.givingwhatwecan.org/pledge) to keep donating over the course of your lifetime — 8,438 people (and counting) have pledged to donate 10% of their lifetime income to the most effective charities, and 798 have made pledges of 1% or more of their income for a custom period.
+- Choose a career that’s really high-impact by reading career advice from [80,000 Hours](https://80000hours.org/)
+- Start a [chapter or discussion group](https://www.givingwhatwecan.org/get-involved/groups) in your local area or at your university, and get other people interested in making a bigger difference
 
- **Some actions you can take that we think are really effective**
+{{< rawhtml >}}
 
-  * [Donate](https://www.givingwhatwecan.org/best-charities-to-donate-to-2022) to a charity recommended on the basis of its impact and cost-effectiveness — check out our [Top Charities](https://www.givingwhatwecan.org/best-charities-to-donate-to-2022), and [GiveWell’s recommendations](http://www.givewell.org/charities/top-charities). If you’d like to support charities that increase the welfare of non-human animals effectively, check out [Animal Charity Evaluators](http://www.animalcharityevaluators.org/).
-  * [Pledge](https://www.givingwhatwecan.org/pledge) to keep donating over the course of your lifetime — 8,438 people (and counting) have pledged to donate 10% of their lifetime income to the most effective charities, and 798 have made pledges of 1% or more of their income for a custom period.
-  * Choose a career that’s really high-impact by reading career advice from [80,000 Hours](https://80000hours.org/)
-  * Start a [chapter or discussion group](https://www.givingwhatwecan.org/get-involved/groups) in your local area or at your university, and get other people interested in making a bigger difference
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="What is effective altruism in the context of these four ideas?
+        1. It's important to help others
+        2. People are equal
+        3. Helping more is better than helping less
+        4. Our resources are limited"
+        answer="If we already agree with the above four ideas, EA is just a better way to live up to values that we already hold."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="What happens when you flinch away from hard choices?"
+        answer="We're making choices anyway, whether we think about them or not."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
 
-
+{{< /rawhtml >}}
 
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 [^27]: The number I’ve pre-loaded into the calculator ($32,140USD) is the [median personal income](https://en.wikipedia.org/wiki/Personal_income_in_the_United_States) for someone 25 or older in the US, but of course you should substitute in your own income, country, and household details. Some other generic values you could use for comparison are [$24,062USD](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median personal income](https://en.wikipedia.org/wiki/Personal_income_in_the_United_States) for people in the US over 18), [£21,100GBP](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median personal income](http://www.theguardian.com/money/2014/mar/25/uk-incomes-how-salary-compare) of the sixth decile in the UK), or [$59,900AUD](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median salary of full-time workers](http://www.abs.gov.au/ausstats/abs@.nsf/mf/6310.0) in Australia
@@ -630,7 +699,9 @@ _This work is licensed under a_[ _Creative Commons Attribution 4.0 International
 [^31]: White, MT. "Costs and cost-effectiveness of malaria control interventions ..." 2011. <https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-10-33
 [^32]: Charities Aid Foundation, _UK Giving 2014_ , p14 [_https://www.cafonline.org/docs/default-source/about-us-publications/caf-ukgiving2014_](https://www.cafonline.org/docs/default-source/about-us-publications/caf-ukgiving201
 [^33]: <https://www.nice.org.uk/news/blog/carrying-nice-over-the-threshol
+
 # The world is much better. The world is awful. The world can be much better.
+
 (Cross-posted from [Our World in Data](https://ourworldindata.org/much-better-awful-can-be-better).)
 
 The world is much better. The world is awful. The world can be much better. All three statements are true.
@@ -689,13 +760,36 @@ If we had achieved the best of all possible worlds, I wouldn't spend my life wri
 
 We know that it is possible to make the world a better place because we already did it. It is because the world is terrible still that it's so important to write about how, in several important aspects, the world became a better place.
 
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="From a global health and development perspective, why is it true that 'The world is awful. The world is much better. The world can be much better.'?"
+        answer="**The world is awful**: 5.5 million children died today.
+        **The world is much better**: Child mortality today is much lower than even the richest places in the past.
+        **The world can be much better**: Average child mortality across the globe is still 10x that of the healthiest places (the EU)."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
+
 _This work is licensed under a[Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)_
 
-* * *
-[^34]: Child deaths in 2017: 140.95 * (3.9/100)=5,497,050. This means 5,497,050/365.25=15,050 child deaths per day. Here I'm assuming that the cohorts of children younger than 5 are all equally large. As the [number of births per year is not rising much anymore](https://ourworldindata.org/grapher/the-annual-number-of-births-and-deaths-including-the-un-projections-until-2100), this seems like a justified approximation that makes the calculation straightforward.
+---
+
+[^34]: Child deaths in 2017: 140.95 \* (3.9/100)=5,497,050. This means 5,497,050/365.25=15,050 child deaths per day. Here I'm assuming that the cohorts of children younger than 5 are all equally large. As the [number of births per year is not rising much anymore](https://ourworldindata.org/grapher/the-annual-number-of-births-and-deaths-including-the-un-projections-until-2100), this seems like a justified approximation that makes the calculation straightforward.
 [^35]: We don't know how many children actually died at the time because I don't have estimates of the number of births globally for that period. We have estimates of both the number of births and the mortality rate for the 1950s and 1960s, and the records show that around 20 million children died every year. See the data shown [here](https://www.gatesnotes.com/Development/Max-Roser-three-facts-everyone-should-know).
+
 # On Caring
-_This version of the essay has been lightly edited. You can find the original_[ _ _here__](https://web.archive.org/web/20200108195437/http://mindingourway.com/on-caring/) _._
+
+_This version of the essay has been lightly edited. You can find the original_[ \_ \_here\_\_](https://web.archive.org/web/20200108195437/http://mindingourway.com/on-caring/) _._
 
 ## 1
 
@@ -827,9 +921,35 @@ You can't actually feel the weight of the world. The human mind is not capable o
 
 But sometimes, you can catch a glimpse.
 
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="Why can't we intuitively feel the scope of large problems?"
+        answer="The human brain isn't wired to comprehend the difference between a billion and a million, or to have stable relationships with >150 people."
+      ></orbit-prompt>
+      <orbit-prompt
+        cloze="Caring about the world isn’t about having a gut feeling that corresponds to the amount of suffering in the world; it’s about {doing the right thing anyway}."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="What does it mean to 'shut up and multiply'?"
+        answer="Take into account scope insensitivity, instead of asking your gut feeling about how much you care about something."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
+
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 
 # Scope insensitivity: failing to appreciate the numbers of those who need our help
+
 This is a linkpost for [https://www.animal-ethics.org/scope-insensitivity-failing-to-appreciate-the-numbers-of-those-who-need-our-help/](https://forum-bots.effectivealtruism.org/out?url=https%3A%2F%2Fwww.animal-ethics.org%2Fscope-insensitivity-failing-to-appreciate-the-numbers-of-those-who-need-our-help%2F)
 
 Consider one billion animals. Now consider one _trillion_ animals. The second number is vastly higher. However, it is difficult for many people to have a clear idea of what the magnitude of that difference is. As a result of this, we often fail to assess properly what we should do when large numbers of individuals are affected.
@@ -860,7 +980,7 @@ In addition, due to the key role of emotions in moral intuitions and in decision
 
 ## Scope insensitivity and our failure to help animals in the wild in need of aid
 
-Scope insensitivity is especially problematic when it biases us away from helping animals in the wild. There is an astronomical amount of suffering constantly going on in the natural world. For example, the leading estimate as to the number of insects in the wild is 1018.[^46] A majority of these animals die a painful death in their first days of life. This amount of suffering simply dwarfs any that we are used to dealing with or thinking about.
+Scope insensitivity is especially problematic when it biases us away from helping animals in the wild. There is an astronomical amount of suffering constantly going on in the natural world. For example, the leading estimate as to the number of insects in the wild is {{< rawhtml >}}10<sup>18</sup>{{< /rawhtml >}}.[^46] A majority of these animals die a painful death in their first days of life. This amount of suffering simply dwarfs any that we are used to dealing with or thinking about.
 
 In order to react properly to these magnitudes, we should be prepared to adjust our initial emotional reaction based on our more abstract understanding of the quantity. For example, we can try to imagine the largest number of insects that we can and then try to remember how much bigger of an issue it is than we can possibly imagine.
 
@@ -870,9 +990,40 @@ The equivalent suffering of each individual should be given the same considerati
 
 Hence, we cannot rely solely on our more immediate decision-making processes when making moral judgments involving large numbers of individuals. We must bear this in mind and try to adjust for the errors our decision-making process will run into because of this bias.
 
-* * *
+{{< rawhtml >}}
 
-##  **Further readings**
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="Give an example of scope insensitivity"
+        answer="When asked how much people would pay to save 2000, 20000, and 200000 birds, people responded with $80, $78, and $88 respectively. The leading estimate to theh number of insects in the wild is 10^18 — we can't even begin to comprehend the amount of suffering going on."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="What is the representativeness heuristic?"
+        answer="People tend to imagine a simple, normal examples rather than picturing all the specific details of the case in question, which may be very complex."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="How does the representativeness heuristic explain the scope insensitivity bias?"
+        answer="When asked how much people would pay to save 2000, 20000, and 200000 birds, people responded with $80, $78, and $88 respectively. This is because they visualized roughly the same thing, so their empathy was stimulated to roughly the same degree."
+      ></orbit-prompt>
+      <orbit-prompt
+        question="How do we overcome scope insensitivity?"
+        answer="We cannot rely on our system 1 thinking when making moral judgements involving large numbers of individuals. 
+        TL;DR Shut up and multiply"
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
+
+---
+
+## **Further readings**
 
 Baron, J. & Greene, J. (1996) “Determinants of insensitivity to quantity in valuation of public goods: Contribution, warm glow, budget constraints, availability, and prominence”, _Journal of Experimental Psychology: Applied_ , 2, pp. 107-125.
 
@@ -894,11 +1045,10 @@ Fetherstonhaugh, D.; Slovic, P.; Johnson, S. & Friedrich, J. (1997) “Insensiti
 
 Kogut, T.; Slovic, P. & Västfjäll, D. (2015) “Scope insensitivity in helping decisions: Is it a matter of culture and values?”, _Journal of Experimental Psychology: General_ , 144, pp. 1042-1052.
 
-* * *
+---
 
- _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
+_This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 
-##  **Notes**
 [^36]: Kahneman, D. & Tversky, A. (eds.) (2000) _Choices, values and frames_ , Cambridge: Cambridge University Pres
 [^37]: Small, D. A.; Loewenstein, G. & Slovic, P. (2007) “Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims”, _Organizational Behavior and Human Decision Processes_ , 102, pp. 143-15
 [^38]: Baron, J. & Szymanska, E. (2011) “Heuristics and biases in charity”, in Oppenheimer, D.M. & Olivola, C. Y. (eds.) _The science of giving: Experimental approaches to the study of charity_ , New York: Psychology Press, pp. 215-23
@@ -910,58 +1060,79 @@ Kogut, T.; Slovic, P. & Västfjäll, D. (2015) “Scope insensitivity in helping
 [^44]: Haidt, J. (2001) “The emotional dog and its rational tail: A social intuitionist approach to moral judgment”, _Psychological Review_ , 108, pp. 814-83
 [^45]: Slovic, P.; Zionts, D.; Woods, A.K.; Goodman, R. & Jinks, D. (2013) “Psychic numbing and mass atrocity”, in Shafir, E. (ed.) _The behavioral foundations of public policy_ , Princeton: Princeton University Press, pp. 126-14
 [^46]: Tomasik, B. (2015) “[The importance of wild-animal suffering](http://www.ledonline.it/index.php/Relations/article/view/880)”, _Relations: Beyond Anthropocentrism_ , 3, pp. 133-152 [accessed on 20 May 2017
+
 # Why you think you're right - even when you're wrong
+
 This is a linkpost for [https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong?language=en](https://forum-bots.effectivealtruism.org/out?url=https%3A%2F%2Fwww.ted.com%2Ftalks%2Fjulia_galef_why_you_think_you_re_right_even_if_you_re_wrong%3Flanguage%3Den)
 
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="Why do you think you're right, even when you're wrong?"
+        answer=""
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
+
 # What cognitive biases feel like from the inside
+
 This is a linkpost for [https://www.lesswrong.com/posts/ERWeEA8op6s6tYCKy/what-cognitive-biases-feel-like-from-the-inside](https://forum-bots.effectivealtruism.org/out?url=https%3A%2F%2Fwww.lesswrong.com%2Fposts%2FERWeEA8op6s6tYCKy%2Fwhat-cognitive-biases-feel-like-from-the-inside)
 
 by chaosmage
 
 Building on the recent SSC post [_Why Doctors Think They’re The Best_](https://slatestarcodex.com/2020/01/02/why-doctors-think-theyre-the-best/)...
 
- **What it feels like for me**|  **How I see others who feel the same**  
----|---  
-There is controversy on the subject but there shouldn't be because the side I am on is obviously right.| They have taken one side in a debate that is unresolved for good reason that they are struggling to understand  
-I have been studying this carefully| They preferentially seek out conforming evidence  
-The arguments for my side make obvious sense, they're almost boring.| They're very ready to accept any and all arguments for their side.  
-The arguments for the opposing side are contradictory, superficial, illogical or debunked.| They dismiss arguments for the opposing side at the earliest opportunity.  
-The people on the opposing side believe these arguments mostly because they are uninformed, have not thought about it enough or are being actively misled by people with bad motives.| The flawed way they perceive the opposing side makes them confused about how anyone could be on that side. They resolve that confusion by making strong assumptions that can approach conspiracy theories.  
-  
- _The scientific term for this mismatch is:_ **confirmation bias**
+| **What it feels like for me**                                                                                                                                                         | **How I see others who feel the same**                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| There is controversy on the subject but there shouldn't be because the side I am on is obviously right.                                                                               | They have taken one side in a debate that is unresolved for good reason that they are struggling to understand                                                                                             |
+| I have been studying this carefully                                                                                                                                                   | They preferentially seek out conforming evidence                                                                                                                                                           |
+| The arguments for my side make obvious sense, they're almost boring.                                                                                                                  | They're very ready to accept any and all arguments for their side.                                                                                                                                         |
+| The arguments for the opposing side are contradictory, superficial, illogical or debunked.                                                                                            | They dismiss arguments for the opposing side at the earliest opportunity.                                                                                                                                  |
+| The people on the opposing side believe these arguments mostly because they are uninformed, have not thought about it enough or are being actively misled by people with bad motives. | The flawed way they perceive the opposing side makes them confused about how anyone could be on that side. They resolve that confusion by making strong assumptions that can approach conspiracy theories. |
 
- **What it feels like for me**|  **How I see others who feel the same**  
----|---  
-My customers/friends/relationships love me, so I am good for them, so I am probably just generally good.| They neglect the customers / friends / relationships that did not love them and have left, so they overestimate how good they are.  
-When customers / friends / relationships switch to me, they tell horror stories of who I'm replacing for them, so I'm better than those.| They don't see the people who are happy with who they have and therefore never become their customers / friends / relationships.  
-  
- _The scientific term for this mismatch is:_ **selection bias**
+_The scientific term for this mismatch is:_ **confirmation bias**
 
- **What it feels like for me**|  **How I see others who feel the same**  
----|---  
-Although I am smart and friendly, people don't listen to me.| Although they are smart and friendly, they are hard to understand.  
-I have a deep understanding of the issue that people are too stupid or too disinterested to come to share.| They are failing to communicate their understanding, or to give unambiguous evidence if they even have it.  
-This lack of being listened to affects several areas of my life but it is particularly jarring on topics that are very important to me.| This bad communication affects all areas of their life, but on the unimportant ones they don't even understand that others don't understand them.  
-  
- _The scientific term for this mismatch is:_ **illusion of transparency**
+| **What it feels like for me**                                                                                                            | **How I see others who feel the same**                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| My customers/friends/relationships love me, so I am good for them, so I am probably just generally good.                                 | They neglect the customers / friends / relationships that did not love them and have left, so they overestimate how good they are. |
+| When customers / friends / relationships switch to me, they tell horror stories of who I'm replacing for them, so I'm better than those. | They don't see the people who are happy with who they have and therefore never become their customers / friends / relationships.   |
 
- **What it feels like for me**|  **How I see others who feel the same**  
----|---  
-I knew at the time this would not go as planned.| They did not predict what was going to happen.  
-The plan was bad and we should have known it was bad.| They fail to appreciate how hard prediction is, so the mistake seems more obvious to them than it was.  
-I knew it was bad, I just didn't say it, for good reasons (e.g. out of politeness or too much trust in those who made the bad plan) or because it is not my responsibility or because nobody listens to me anyway.| In order to avoid blame for the seemingly obvious mistake, they are making up excuses.   
-  
+_The scientific term for this mismatch is:_ **selection bias**
+
+| **What it feels like for me**                                                                                                           | **How I see others who feel the same**                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Although I am smart and friendly, people don't listen to me.                                                                            | Although they are smart and friendly, they are hard to understand.                                                                                |
+| I have a deep understanding of the issue that people are too stupid or too disinterested to come to share.                              | They are failing to communicate their understanding, or to give unambiguous evidence if they even have it.                                        |
+| This lack of being listened to affects several areas of my life but it is particularly jarring on topics that are very important to me. | This bad communication affects all areas of their life, but on the unimportant ones they don't even understand that others don't understand them. |
+
+_The scientific term for this mismatch is:_ **illusion of transparency**
+
+| **What it feels like for me**                                                                                                                                                                                      | **How I see others who feel the same**                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| I knew at the time this would not go as planned.                                                                                                                                                                   | They did not predict what was going to happen.                                                         |
+| The plan was bad and we should have known it was bad.                                                                                                                                                              | They fail to appreciate how hard prediction is, so the mistake seems more obvious to them than it was. |
+| I knew it was bad, I just didn't say it, for good reasons (e.g. out of politeness or too much trust in those who made the bad plan) or because it is not my responsibility or because nobody listens to me anyway. | In order to avoid blame for the seemingly obvious mistake, they are making up excuses.                 |
+
 _The scientific term for this mismatch is:_ **hindsight bias**
 
- **What it feels like for me**|  **How I see others who feel the same**  
----|---  
-I have a good intuition; even decisions I make based on insufficient information tend to turn out to be right.| They tend to recall their own successes and forget their own failures, leading to an inflated sense of past success.  
-I know early on how well certain projects are going to go or how well I will get along with certain people.| They make self-fulfilling prophecies that directly influence how much effort they put into a project or relationship.  
-Compared to others, I am unusually successful in my decisions.| They evaluate the decisions of others more level-headedly than their own.  
-I am therefore comfortable relying on my quick decisions.| They therefore overestimate the quality of their decisions.  
-This is more true for life decisions that are very important to me.| Yes, this is more true for life decisions that are very important to them.  
-  
- _The scientific term for this mismatch is:_ **optimism bias**
+| **What it feels like for me**                                                                                  | **How I see others who feel the same**                                                                                |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| I have a good intuition; even decisions I make based on insufficient information tend to turn out to be right. | They tend to recall their own successes and forget their own failures, leading to an inflated sense of past success.  |
+| I know early on how well certain projects are going to go or how well I will get along with certain people.    | They make self-fulfilling prophecies that directly influence how much effort they put into a project or relationship. |
+| Compared to others, I am unusually successful in my decisions.                                                 | They evaluate the decisions of others more level-headedly than their own.                                             |
+| I am therefore comfortable relying on my quick decisions.                                                      | They therefore overestimate the quality of their decisions.                                                           |
+| This is more true for life decisions that are very important to me.                                            | Yes, this is more true for life decisions that are very important to them.                                            |
+
+_The scientific term for this mismatch is:_ **optimism bias**
 
 ## Why this is better than how we usually talk about biases
 
@@ -977,13 +1148,11 @@ Our highly demanding style of communication correctly predicts that LessWrongian
 
 The tables above show one way to do better that does the following.
 
-  * It aims low - merely to help people [_notice the flaws in their thinking_](https://www.lesswrong.com/posts/46qnWRSR7L2eyNbMA/the-lens-that-sees-its-flaws). It will not, and does not need to, enable readers to write scientific papers on the subject.
-  * It reduces biases into mismatches between Inside View and Outside View. It lists concrete observations from both views and juxtaposes them.
-  * These observations are written in a way that is hopefully general enough for most people to find they match their own experiences.
-  * It trusts readers to infer from these juxtaposed observations their own understanding of the phenomena. After all, generalizing over particulars is much easier than integrating generalizations and applying them to particulars. The understanding gained this way will be imprecise, but it has the advantage of actually arriving inside the reader’s mind.
-  * It is nearly jargon free; it only names the biases for the benefit of that small minority who might want to learn more.
-
-
+- It aims low - merely to help people [_notice the flaws in their thinking_](https://www.lesswrong.com/posts/46qnWRSR7L2eyNbMA/the-lens-that-sees-its-flaws). It will not, and does not need to, enable readers to write scientific papers on the subject.
+- It reduces biases into mismatches between Inside View and Outside View. It lists concrete observations from both views and juxtaposes them.
+- These observations are written in a way that is hopefully general enough for most people to find they match their own experiences.
+- It trusts readers to infer from these juxtaposed observations their own understanding of the phenomena. After all, generalizing over particulars is much easier than integrating generalizations and applying them to particulars. The understanding gained this way will be imprecise, but it has the advantage of actually arriving inside the reader’s mind.
+- It is nearly jargon free; it only names the biases for the benefit of that small minority who might want to learn more.
 
 What do you think about this? Should we communicate more concretely? If so, should we do it in this way or what would you do differently?
 
@@ -991,17 +1160,48 @@ Would you like to correct these tables? Would you like to propose more analogous
 
 Thanks to Simon, miniBill and others for helping with the draft of this post.
 
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="Give some concrete examples of the confirmation bias."
+        answer="(This is just one example) There is controversy on the subject but there shouldn’t be because the side I am on is obviously right. 🤡"
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Give a concrete example of the selection bias."
+        answer="(This is just one example) I have a deep understanding of the issue that people are too stupid or too disinterested to come to share.	🤡"
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Give a concrete example of the illusion of transparency."
+        answer="(This is just one example) I have a deep understanding of the issue that people are too stupid or too disinterested to come to share.	🤡"
+      ></orbit-prompt>
+      <orbit-prompt
+        question="Give a concrete example of the hindsight bias."
+        answer="(This is just one example) I knew at the time this would not go as planned.	🤡"
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
+
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 
 # Purchase fuzzies and utilons separately
+
 This is a linkpost for [https://www.lesswrong.com/posts/3p3CYauiX8oLjmwRF/purchase-fuzzies-and-utilons-separately](https://forum-bots.effectivealtruism.org/out?url=https%3A%2F%2Fwww.lesswrong.com%2Fposts%2F3p3CYauiX8oLjmwRF%2Fpurchase-fuzzies-and-utilons-separately)
 
- _Someone recently cross-posted this to the main EA Facebook group, where it got a lot of attention from people who came to EA from sources other than LessWrong. I think the essay is a classic, so I'm cross-posting it to the Forum, where I expect at least a few people to see it who hadn't seen it before._
+_Someone recently cross-posted this to the main EA Facebook group, where it got a lot of attention from people who came to EA from sources other than LessWrong. I think the essay is a classic, so I'm cross-posting it to the Forum, where I expect at least a few people to see it who hadn't seen it before._
 
 Yesterday:
 
 > There _is_ this very, very old puzzle/observation in economics about the lawyer who spends an hour volunteering at the soup kitchen, instead of working an extra hour and donating the money to hire someone...
-> 
+>
 > If the lawyer needs to work an hour at the soup kitchen to keep himself motivated and remind himself why he's doing what he's doing, _that's fine._ But he should _also_ be donating some of the hours he worked at the office, because that is the power of professional specialization and it is how grownups really get things done. One might consider the check as buying the right to volunteer at the soup kitchen, or validating the time spent at the soup kitchen.
 
 I hold open doors for little old ladies. I can't actually remember the last time this happened literally (though I'm sure it has, sometime in the last year or so). But within the last month, say, I was out on a walk and discovered a station wagon parked in a driveway with its trunk completely open, giving full access to the car's interior. I looked in to see if there were packages being taken out, but this was not so. I looked around to see if anyone was doing anything with the car. And finally I went up to the house and knocked, then rang the bell. And yes, the trunk had been accidentally left open.
@@ -1024,11 +1224,9 @@ But if you find that you are like me in this aspect—that selfish good deeds st
 
 If I had to give advice to some new-minted billionaire entering the realm of charity, my advice would go something like this:
 
-  * To purchase warm fuzzies, find some hard-working but poverty-stricken woman who's about to drop out of state college after her husband's hours were cut back, and personally, but anonymously, give her a cashier's check for $10,000. Repeat as desired.
-  * To purchase status among your friends, donate $100,000 to the current sexiest X-Prize, or whatever other charity seems to offer the most stylishness for the least price. Make a big deal out of it, show up for their press events, and brag about it for the next five years.
-  * Then—with absolute cold-blooded calculation—without [scope insensitivity](http://www.overcomingbias.com/2007/05/scope_insensiti.html) or [ambiguity aversion](http://en.wikipedia.org/wiki/Ambiguity_aversion)—without concern for status or warm fuzzies—figuring out some common scheme for converting outcomes to utilons, and trying to express uncertainty in percentage probabilitiess—find the charity that offers the greatest expected utilons per dollar. Donate up to however much money you wanted to give to charity, until their marginal efficiency drops below that of the next charity on the list.
-
-
+- To purchase warm fuzzies, find some hard-working but poverty-stricken woman who's about to drop out of state college after her husband's hours were cut back, and personally, but anonymously, give her a cashier's check for $10,000. Repeat as desired.
+- To purchase status among your friends, donate $100,000 to the current sexiest X-Prize, or whatever other charity seems to offer the most stylishness for the least price. Make a big deal out of it, show up for their press events, and brag about it for the next five years.
+- Then—with absolute cold-blooded calculation—without [scope insensitivity](http://www.overcomingbias.com/2007/05/scope_insensiti.html) or [ambiguity aversion](http://en.wikipedia.org/wiki/Ambiguity_aversion)—without concern for status or warm fuzzies—figuring out some common scheme for converting outcomes to utilons, and trying to express uncertainty in percentage probabilitiess—find the charity that offers the greatest expected utilons per dollar. Donate up to however much money you wanted to give to charity, until their marginal efficiency drops below that of the next charity on the list.
 
 I would furthermore advise the billionaire that what they spend on utilons should be at least, say, 20 times what they spend on warm fuzzies—5% overhead on keeping yourself altruistic seems reasonable, and I, your dispassionate judge, would have no trouble _validating_ the warm fuzzies against a multiplier that large. Save that the original, fuzzy act really should be helpful rather than actively harmful.
 
@@ -1040,18 +1238,37 @@ Of course, if you're not a millionaire or even a billionaire—then you can't be
 
 And when it comes to purchasing expected utilons—then, of course, [shut up and multiply](http://www.overcomingbias.com/2008/01/circular-altrui.html).
 
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="What does it mean to purchase your fuzzies and utilions separately?"
+        answer="Split your charity time/money into **warm fuzzies** (volunteeering, donating to a single person), **status** (donating to the current sexiest X-Prize) and **utilons** (GiveWell et al.)"
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
+
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 
 # We are in triage every second of every day
+
 (Cross-posted from [this blog post.](https://mhollyelmoreblog.wordpress.com/2016/08/26/we-are-in-triage-every-second-of-every-day/))
 
- _ **Spoilers ahead** — listen to the episode beforehand if you don’t want to hear a rough summary first._
+_ **Spoilers ahead** — listen to the episode beforehand if you don’t want to hear a rough summary first._
 
 I quite liked the ["Playing God"](https://www.wnycstudios.org/podcasts/radiolab/articles/playing-god) episode of RadioLab.
 
 The topic is [triage](https://en.wikipedia.org/wiki/Triage), the practice of assigning priority to different patients in emergency medicine. By extension, to triage means to ration scarce resources. The episode treats triage as a rare phenomenon– in fact, it suggests that medical triage protocols were not taken very seriously in the US until after Hurricane Katrina– but triage is not a rare phenomenon at all. We are engaging in triage with every decision we make.
 
-* * *
+---
 
 The stories in “Playing God” are gripping, particularly the story of a New Orleans hospital thrown into hell in a matter of days after losing power during Hurricane Katrina. [Sheri Fink](http://www.sherifink.net/) from the New York Times discusses the events she reported in her book, [Five Days at Memorial.](https://www.amazon.com/Five-Days-Memorial-Storm-Ravaged-Hospital/dp/0307718972/ref=sr_1_1?ie=UTF8&qid=1471783956&sr=8-1&keywords=five+days+at+memorial) The close-up details are difficult to stomach. After evacuating the intensive care unit, the hospital staff are forced to rank the remaining patients for evacuation; moving the patients is backbreaking labor without the elevators, and helicopters and boats are only coming sporadically to take them away. Sewage is backing up into the hospital and the extreme heat is causing some patients and pets to have seizures.
 
@@ -1059,13 +1276,13 @@ Meanwhile, on the news, the staff hears exaggerated reports of looting and lawle
 
 The crux of this story is that giving in to the logic of triage put the hospital staff on a slippery slope to “playing God”. The episode goes on to discuss ways of formalizing triage so people don’t have to rely on their own judgment at such a fraught time. (Utilitarian triage is discussed, and you can almost hear the speakers holding their noses.) Very often, concerns for the caregiver’s conscience take center stage, though no one acknowledges how selfish this is. Triage is portrayed very unsympathetically throughout, as if the people being forced to make the choice must be at fault somehow for having gotten in the situation.
 
-But it was the last story that made me want to write this. Sheri Fink, the guest reporter, describes a woman she met in a American-run disaster-relief hospital in Haiti. Nathalie was a charming middle-aged woman whose life was spared because she went to the hospital for difficulty breathing. When the earthquake struck, her entire family was at their home, which collapsed and killed them all. Nathalie was putting on a brave face, just glad to be alive, and she radiated gratitude for the care she had received. 
+But it was the last story that made me want to write this. Sheri Fink, the guest reporter, describes a woman she met in a American-run disaster-relief hospital in Haiti. Nathalie was a charming middle-aged woman whose life was spared because she went to the hospital for difficulty breathing. When the earthquake struck, her entire family was at their home, which collapsed and killed them all. Nathalie was putting on a brave face, just glad to be alive, and she radiated gratitude for the care she had received.
 
-But there was a problem. Nathalie needed oxygen, and the hospital (indeed, the nation) did not have enough to go around. Because she was suffering heart failure, the triage nurses had decided she should receive no more oxygen and return to a local Haitian-run hospital, most likely to die. Fink mentions ruefully that the nurse who made the call had never met Nathalie, as if that makes any difference at all. 
+But there was a problem. Nathalie needed oxygen, and the hospital (indeed, the nation) did not have enough to go around. Because she was suffering heart failure, the triage nurses had decided she should receive no more oxygen and return to a local Haitian-run hospital, most likely to die. Fink mentions ruefully that the nurse who made the call had never met Nathalie, as if that makes any difference at all.
 
 Fink rides in the ambulance with her to the new hospital, where she coughs and sputters and receives no oxygen to help. Fink’s heart breaks. But when Nathalie gets to the Haitian hospital, a clever doctor does what he can to drain the fluid from her lungs and manages to get her through the crisis without supplemental oxygen.
 
-* * *
+---
 
 This story reinforces for Fink the fantasy that you never have to choose — that agreeing to choose is already going too far. Fink was so moved by Nathalie that she helped her to get a humanitarian visa to the US. It turned out Nathalie needed a heart transplant, and she died before she could get one. But, Fink says, she was a delight to everyone she met in those hospital; she even took up a collection for the other patients back in Haiti. So who were the doctors to say that she didn’t deserve every chance?
 
@@ -1079,15 +1296,34 @@ I understand that it’s hard, that we will always instinctively care more for t
 
 There are [millions of people around the world dying of entirely preventable causes](http://www.un.org/apps/news/story.asp?NewsID=54340#.V7_XV7V8bWQ). Why should it make any difference that they aren’t in front of us? You know they are there. _They_ know the suffering they feel. [Poverty](https://www.givedirectly.org/?gclid=CjwKEAjwrvq9BRD5gLyrufTqg0YSJACcuF81S-ZBjDu85JfqJnmhncsRVcaL4Gb_InpXs74bUuvuGhoC4m7w_wcB) is a major culprit, as are [neglected tropical diseases](http://www.givewell.org/international/top-charities/amf) that could be cured for [pennies per person per year](http://www.givewell.org/international/top-charities/schistosomiasis-control-initiative). Money that you won’t even miss could be saving lives right now [if you put it to that purpose](https://www.givingwhatwecan.org/get-involved/join/) instead of, say, home improvement or collecting action figures. Every decision we make bears on the lives of the myriad others we might be able to help.
 
- **We are always in triage.** I fervently hope that one day we will be able to save everyone. In the meantime, it is irresponsible to pretend that we aren’t [making life and death decisions with the allocation of our resources](https://www.effectivealtruism.org/). Pretending there is no choice only makes our decisions worse.
+**We are always in triage.** I fervently hope that one day we will be able to save everyone. In the meantime, it is irresponsible to pretend that we aren’t [making life and death decisions with the allocation of our resources](https://www.effectivealtruism.org/). Pretending there is no choice only makes our decisions worse.
+
+{{< rawhtml >}}
+
+<html>
+  <head>
+    <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
+  </head>
+  <body>
+    <orbit-reviewarea color="blue">
+      <orbit-prompt
+        question="Why are we in triage every second of every day?"
+        answer="There are millions around the world dying of preventable causes. We are making life and death decisions with the allocation of our resources — pretending there is no choice only makes our decisions worse."
+      ></orbit-prompt>
+    </orbit-reviewarea>
+  </body>
+</html>
+
+{{< /rawhtml >}}
 
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 
 # 500 Million, But Not A Single One More
+
 This is a linkpost for [https://laneless.substack.com/p/500-million-but-not-a-single-one-more](https://forum-bots.effectivealtruism.org/out?url=https%3A%2F%2Flaneless.substack.com%2Fp%2F500-million-but-not-a-single-one-more)
 
- _Author's note: In 2023 this piece received two edits for historical accuracy. See_[ _comment_](https://forum.effectivealtruism.org/posts/jk7A3NMdbxp65kcJJ/500-million-but-not-a-single-one-more?commentId=nrhxEbKmv5yGQSMYu) _here for details._  
-  
+_Author's note: In 2023 this piece received two edits for historical accuracy. See_[ _comment_](https://forum.effectivealtruism.org/posts/jk7A3NMdbxp65kcJJ/500-million-but-not-a-single-one-more?commentId=nrhxEbKmv5yGQSMYu) _here for details._
+
 We will never know their names.
 
 The first victim could not have been recorded, for there was no written language to record it. They were someone’s daughter, or son, and someone’s friend, and they were loved by those around them. And they were in pain, covered in rashes, confused, scared, not knowing why this was happening to them or what they could do about it — victims of a mad, inhuman god. There was nothing to be done — humanity was not strong enough, not aware enough, not knowledgeable enough, to fight back against a monster that could not be seen.
@@ -1100,7 +1336,7 @@ For a long time, there was no hope — only the bitter, hollow endurance of surv
 
 In China, in the 15th century, humanity began to fight back.
 
-It was observed that survivors of the mad god’s curse would never be touched again: They had taken a portion of that power into themselves, and were so protected from it. Not only that, but this power could be shared by consuming a remnant of the wounds. There was a price, for you could not take the god’s power without first defeating it — but a smaller battle, on humanity’s terms. 
+It was observed that survivors of the mad god’s curse would never be touched again: They had taken a portion of that power into themselves, and were so protected from it. Not only that, but this power could be shared by consuming a remnant of the wounds. There was a price, for you could not take the god’s power without first defeating it — but a smaller battle, on humanity’s terms.
 
 By the 16th century, the technique spread to India, then across Asia, the Ottoman Empire and, in the 18th century, Europe. In 1796, a more powerful technique was discovered by Edward Jenner.
 
@@ -1129,39 +1365,32 @@ You are a member of the species that did that. Never forget what we are capable 
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 
 # More to explore on 'The Effectiveness Mindset'
+
 ## Other introductions
 
-  * [ _Introduction to EA | Ajeya Cotra | EAGxBerkeley 2016_](https://www.youtube.com/watch?v=48VAQtGmfWY&feature=youtu.be&ab_channel=CentreforEffectiveAltruism) (Video - 30 mins.)
-  * [ _ _Doing Good Better__](https://bit.ly/3fNWtzB) \- Introduction through to the end of Chapter 3 (50 mins.)
-  * [ _Effective Altruism: An Introduction - 80,000 Hours_](https://80000hours.org/podcast/effective-altruism-an-introduction/) \- _Ten curated episodes from The 80,000 Hours Podcast. (Ten 1.5 hour - 4 hour podcasts)_
-  * [ _Effective altruism as I see it_](https://lukemuehlhauser.com/effective-altruism-as-i-see-it/) (7 mins.)
-  * [ _No matter your job, here’s 3 evidence-based ways anyone can have a real impact - 80,000 Hours_](https://tinyurl.com/4wy2xe8) (20 mins.)
-  * [ _Other-centered ethics and Harsanyi's Aggregation Theorem_](https://forum.effectivealtruism.org/posts/iupkbiubpzDDGRpka/other-centered-ethics-and-harsanyi-s-aggregation-theorem) (107 min)
-
-
+- [ _Introduction to EA | Ajeya Cotra | EAGxBerkeley 2016_](https://www.youtube.com/watch?v=48VAQtGmfWY&feature=youtu.be&ab_channel=CentreforEffectiveAltruism) (Video - 30 mins.)
+- [ \_ \_Doing Good Better\_\_](https://bit.ly/3fNWtzB) \- Introduction through to the end of Chapter 3 (50 mins.)
+- [ _Effective Altruism: An Introduction - 80,000 Hours_](https://80000hours.org/podcast/effective-altruism-an-introduction/) \- _Ten curated episodes from The 80,000 Hours Podcast. (Ten 1.5 hour - 4 hour podcasts)_
+- [ _Effective altruism as I see it_](https://lukemuehlhauser.com/effective-altruism-as-i-see-it/) (7 mins.)
+- [ _No matter your job, here’s 3 evidence-based ways anyone can have a real impact - 80,000 Hours_](https://tinyurl.com/4wy2xe8) (20 mins.)
+- [ _Other-centered ethics and Harsanyi's Aggregation Theorem_](https://forum.effectivealtruism.org/posts/iupkbiubpzDDGRpka/other-centered-ethics-and-harsanyi-s-aggregation-theorem) (107 min)
 
 ## Essays on caring
 
-  * [ _ _The value of a life - Minding Our Own Way__](https://tinyurl.com/xzbzcbks) _\- Disentangling the difference between the value of a life and what it costs to save a life in our broken world. (15 mins.)_
-  * [ _ _Excited altruism - GiveWell__](https://tinyurl.com/brv5wk37) _\- Where does our own passion and excitement fit in? (10 mins.)_
-
-
+- [ \_ \_The value of a life - Minding Our Own Way\_\_](https://tinyurl.com/xzbzcbks) _\- Disentangling the difference between the value of a life and what it costs to save a life in our broken world. (15 mins.)_
+- [ \_ \_Excited altruism - GiveWell\_\_](https://tinyurl.com/brv5wk37) _\- Where does our own passion and excitement fit in? (10 mins.)_
 
 ## Tradeoffs
 
-  * [ _ _Tradeoffs__](https://tinyurl.com/4kwcv3t4) _\- How can we balance our own needs with the needs of others? (5 mins.)_
-  * [ _Famine, affluence, and morality_](https://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf) (15 mins.) _Note that many people in effective altruism disagree about exactly how demanding these ideas are._
-  * [ _Sustainable motivation_](https://forum.effectivealtruism.org/posts/WuWDS4SmtLNd6sKtb/helen-toner-sustainable-motivation) \- _How can we stay motivated when facing massive problems_ (24 min talk) _?_
-
-
+- [ \_ \_Tradeoffs\_\_](https://tinyurl.com/4kwcv3t4) _\- How can we balance our own needs with the needs of others? (5 mins.)_
+- [ _Famine, affluence, and morality_](https://personal.lse.ac.uk/robert49/teaching/mm/articles/Singer_1972Famine.pdf) (15 mins.) _Note that many people in effective altruism disagree about exactly how demanding these ideas are._
+- [ _Sustainable motivation_](https://forum.effectivealtruism.org/posts/WuWDS4SmtLNd6sKtb/helen-toner-sustainable-motivation) \- _How can we stay motivated when facing massive problems_ (24 min talk) _?_
 
 ## Thinking carefully
 
-  * [ _Minimal trust investigations_](https://forum.effectivealtruism.org/posts/8RcFQPiza2rvicNqw/minimal-trust-investigations) (18 mins.)
-  * [ _Double crux: a strategy for mutual understanding_](https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-mutual-understanding) (17 mins.)
-  * [ _Outline of Julia Galef’s “Scout Mindset”_](https://forum.effectivealtruism.org/posts/HDAXztEbjJsyHLKP7/outline-of-galef-s-scout-mindset) (20 mins.)
-  * [ _Humans are not automatically strategic_](https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic) (5 mins.)
-  * [ _Beware surprising and suspicious convergence_](https://forum.effectivealtruism.org/posts/omoZDu8ScNbot6kXS/beware-surprising-and-suspicious-convergence) (22 mins.)
-  * [ _Crucial Considerations and Wise Philanthropy_](http://www.stafforini.com/blog/bostrom/) (25 mins) - _talk by Nick Bostrom on the almost overwhelming difficulty of knowing what kind of impacts actions have._
-
-
+- [ _Minimal trust investigations_](https://forum.effectivealtruism.org/posts/8RcFQPiza2rvicNqw/minimal-trust-investigations) (18 mins.)
+- [ _Double crux: a strategy for mutual understanding_](https://www.lesswrong.com/posts/exa5kmvopeRyfJgCy/double-crux-a-strategy-for-mutual-understanding) (17 mins.)
+- [ _Outline of Julia Galef’s “Scout Mindset”_](https://forum.effectivealtruism.org/posts/HDAXztEbjJsyHLKP7/outline-of-galef-s-scout-mindset) (20 mins.)
+- [ _Humans are not automatically strategic_](https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic) (5 mins.)
+- [ _Beware surprising and suspicious convergence_](https://forum.effectivealtruism.org/posts/omoZDu8ScNbot6kXS/beware-surprising-and-suspicious-convergence) (22 mins.)
+- [ _Crucial Considerations and Wise Philanthropy_](http://www.stafforini.com/blog/bostrom/) (25 mins) - _talk by Nick Bostrom on the almost overwhelming difficulty of knowing what kind of impacts actions have._
