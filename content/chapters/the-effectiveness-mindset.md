@@ -77,7 +77,7 @@ _This work is licensed under a_[ _Creative Commons Attribution 4.0 International
   <body>
     <orbit-reviewarea color="blue">
       <orbit-prompt
-        question="What are some questions we can ask ourselves to make our worldview more accurate? (Give different answers from last time)"
+        question="What can we ask ourselves to make our worldview more accurate? (Give different answers from last time)"
         answer="e.g. What are my blind spots? How do I know this is true?"
       ></orbit-prompt>
       <orbit-prompt cloze="Even if you don’t end up agreeing with someone, you’ll learn more if you {try to understand exactly how/why they disagree}."></orbit-prompt>
@@ -88,12 +88,12 @@ _This work is licensed under a_[ _Creative Commons Attribution 4.0 International
 
 {{< /rawhtml >}}
 
-[^1]: This handbook is also accessible as a Google Doc version [here](https://docs.google.com/document/d/1ju83W3yFqvUBvsSrHadjEwazNBphCTmLWd-xZkVArBM/edit?usp=sharin
+[^1]: This handbook is also accessible as a Google Doc version [here](https://docs.google.com/document/d/1ju83W3yFqvUBvsSrHadjEwazNBphCTmLWd-xZkVArBM/edit?usp=sharing)
 [^2]: Our goal is to introduce people to some of the core principles of effective altruism, to share the arguments for different problems that people in effective altruism work on, and to encourage you to think about what you want to do on the basis of those ideas. We also tried to give a balance of materials that is in line with the (significant) diversity of views on these topics within effective altruism.
 
     In drawing up the curriculum, we consulted community members, subject matter experts, and program facilitators.
 
-    We think that these readings are interesting and give a good introduction, but we hope that you engage with them critically, rather than taking them all at face value. Once you’ve read this curriculum, we encourage you to explore other EA writings (e.g. on [_this wiki_](https://forum.effectivealtruism.org/topics/all)
+    We think that these readings are interesting and give a good introduction, but we hope that you engage with them critically, rather than taking them all at face value. Once you’ve read this curriculum, we encourage you to explore other EA writings (e.g. on [_this wiki_](https://forum.effectivealtruism.org/topics/all))
 
 # The Effectiveness Mindset
 
@@ -438,14 +438,14 @@ The above are not exhaustive. You can apply effective altruism no matter how muc
 Typically, this involves trying to identify big and neglected global problems, the most effective solutions to those problems, and ways you can contribute to those solutions – with whatever time or money you’re willing to give.
 
 By doing this and thinking carefully, you might find it’s possible to have far more impact with those resources. It really is possible to save hundreds of people’s lives over your career. And by teaming up with others in the community, you can play a role in tackling some of the most important issues civilization faces today.
-[^3]: You can see the global distribution of local EA groups on the [Effective Altruism Forum](https://forum.effectivealtruism.org/community), which lists groups in over 70 countries
+[^3]: You can see the global distribution of local EA groups on the [Effective Altruism Forum](https://forum.effectivealtruism.org/community), which lists groups in over 70 countries.
 [^4]: The less neglected an issue, the more the best opportunities will have been taken, so the harder it will be for an additional person to make an impact.
 
     In fact, there are [good reasons to expect](https://web.archive.org/web/20220728174703/https://www.fhi.ox.ac.uk/law-of-logarithmic-returns/) that returns to investment in an issue are roughly logarithmic.
 
     Logarithmic returns imply that if 10 times more has been invested in one cause compared to another, then additional resources will achieve about 1/10 as much progress.
 
-    If the two issues are equally important, and then an additional person working on the more neglected one will have ten times the impact
+    If the two issues are equally important, and then an additional person working on the more neglected one will have ten times the impact.
 
 [^5]: From 2010 to 2019, US Federal Funding for Health Security is estimated at $141 billion. We judge that 55% of this was spent on what could arguably prevent future pandemics. For example, 4% was spent tackling the ongoing ebola epidemic, which provided infrastructure for potential other pandemics. However, 17% was spent on chemical and nuclear radiation threats in a way unlikely to affect future pandemic spread.
 
@@ -685,6 +685,15 @@ If they do, then the next time you think about how to make the world a better pl
         question="What happens when you flinch away from hard choices?"
         answer="We're making choices anyway, whether we think about them or not."
       ></orbit-prompt>
+      <orbit-prompt
+        question="What are the four ideas that most people already agree with, that are useful when EA-vangelizing people?"
+        answer="1. It's important to help others
+          2. People are equal
+        3. Helping more is better than helping less
+        4. Our resources are limited
+        "
+      >
+      </orbit-prompt>
     </orbit-reviewarea>
   </body>
 </html>
@@ -692,13 +701,13 @@ If they do, then the next time you think about how to make the world a better pl
 {{< /rawhtml >}}
 
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
-[^27]: The number I’ve pre-loaded into the calculator ($32,140USD) is the [median personal income](https://en.wikipedia.org/wiki/Personal_income_in_the_United_States) for someone 25 or older in the US, but of course you should substitute in your own income, country, and household details. Some other generic values you could use for comparison are [$24,062USD](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median personal income](https://en.wikipedia.org/wiki/Personal_income_in_the_United_States) for people in the US over 18), [£21,100GBP](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median personal income](http://www.theguardian.com/money/2014/mar/25/uk-incomes-how-salary-compare) of the sixth decile in the UK), or [$59,900AUD](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median salary of full-time workers](http://www.abs.gov.au/ausstats/abs@.nsf/mf/6310.0) in Australia
+[^27]: The number I’ve pre-loaded into the calculator ($32,140USD) is the [median personal income](https://en.wikipedia.org/wiki/Personal_income_in_the_United_States) for someone 25 or older in the US, but of course you should substitute in your own income, country, and household details. Some other generic values you could use for comparison are [$24,062USD](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median personal income](https://en.wikipedia.org/wiki/Personal_income_in_the_United_States) for people in the US over 18), [£21,100GBP](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median personal income](http://www.theguardian.com/money/2014/mar/25/uk-incomes-how-salary-compare) of the sixth decile in the UK), or [$59,900AUD](https://www.givingwhatwecan.org/blog/four-things-you-already-agree-with-effective-altruism#) ([median salary of full-time workers](http://www.abs.gov.au/ausstats/abs@.nsf/mf/6310.0) in Australia)
 [^28]: I’ve used the word ‘people’ in this article for convenience, but of course if you’re concerned with the welfare of non-human animals, then you could read this as ‘animals’ or ‘sentient beings’ etc. — the arguments all still app
-[^29]: Charities Aid Foundation, _UK Giving 2014_ , p12 <<https://www.cafonline.org/docs/default-source/about-us-publications/caf-ukgiving2014>>. Arrived at by multiplying the typical amount donated each month (£14) by 12 (to get yearly donations) and then by 40 (number of years someone is typically active in the workforc
-[^30]: This is using the figure of around $5 per bednet distributed by the Against Malaria Foundation, which is correct for most places in which they operate. Some countries (such as DRC) are more expensive to work in, but even at the higher figure of $7.50 per net, you could still distribute 1,000 bednet
-[^31]: White, MT. "Costs and cost-effectiveness of malaria control interventions ..." 2011. <https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-10-33
+[^29]: Charities Aid Foundation, _UK Giving 2014_ , p12 <<https://www.cafonline.org/docs/default-source/about-us-publications/caf-ukgiving2014>>. Arrived at by multiplying the typical amount donated each month (£14) by 12 (to get yearly donations) and then by 40 (number of years someone is typically active in the workforce)
+[^30]: This is using the figure of around $5 per bednet distributed by the Against Malaria Foundation, which is correct for most places in which they operate. Some countries (such as DRC) are more expensive to work in, but even at the higher figure of $7.50 per net, you could still distribute 1,000 bednets.
+[^31]: White, MT. "Costs and cost-effectiveness of malaria control interventions ..." 2011. <https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-10-33>
 [^32]: Charities Aid Foundation, _UK Giving 2014_ , p14 [_https://www.cafonline.org/docs/default-source/about-us-publications/caf-ukgiving2014_](https://www.cafonline.org/docs/default-source/about-us-publications/caf-ukgiving201
-[^33]: <https://www.nice.org.uk/news/blog/carrying-nice-over-the-threshol
+[^33]: <https://www.nice.org.uk/news/blog/carrying-nice-over-the-threshold>
 
 # The world is much better. The world is awful. The world can be much better.
 
@@ -934,11 +943,15 @@ But sometimes, you can catch a glimpse.
         answer="The human brain isn't wired to comprehend the difference between a billion and a million, or to have stable relationships with >150 people."
       ></orbit-prompt>
       <orbit-prompt
+        question="What's the name given to the problem that humans can't intuitively feel the scope of large problems?"
+        answer="Scope insensitivity."
+      ></orbit-prompt>
+      <orbit-prompt
         cloze="Caring about the world isn’t about having a gut feeling that corresponds to the amount of suffering in the world; it’s about {doing the right thing anyway}."
       ></orbit-prompt>
       <orbit-prompt
         question="What does it mean to 'shut up and multiply'?"
-        answer="Take into account scope insensitivity, instead of asking your gut feeling about how much you care about something."
+        answer="Take into account scope insensitivity, instead of asking your gut feeling (care-o-meter) about how much you care about something."
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
@@ -1015,6 +1028,10 @@ Hence, we cannot rely solely on our more immediate decision-making processes whe
         answer="We cannot rely on our system 1 thinking when making moral judgements involving large numbers of individuals. 
         TL;DR Shut up and multiply"
       ></orbit-prompt>
+      <orbit-prompt
+        question="What's a 'collapse of compassion'?"
+        answer="A defense mechanism that reduces or eliminates our sensitivity to the harms others suffer when we are faced with massive amounts of suffering"
+      ></orbit-prompt>
     </orbit-reviewarea>
   </body>
 </html>
@@ -1049,17 +1066,17 @@ Kogut, T.; Slovic, P. & Västfjäll, D. (2015) “Scope insensitivity in helping
 
 _This work is licensed under a_[ _Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/) _._
 
-[^36]: Kahneman, D. & Tversky, A. (eds.) (2000) _Choices, values and frames_ , Cambridge: Cambridge University Pres
-[^37]: Small, D. A.; Loewenstein, G. & Slovic, P. (2007) “Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims”, _Organizational Behavior and Human Decision Processes_ , 102, pp. 143-15
+[^36]: Kahneman, D. & Tversky, A. (eds.) (2000) _Choices, values and frames_ , Cambridge: Cambridge University Press.
+[^37]: Small, D. A.; Loewenstein, G. & Slovic, P. (2007) “Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims”, _Organizational Behavior and Human Decision Processes_ , 102, pp. 143-155
 [^38]: Baron, J. & Szymanska, E. (2011) “Heuristics and biases in charity”, in Oppenheimer, D.M. & Olivola, C. Y. (eds.) _The science of giving: Experimental approaches to the study of charity_ , New York: Psychology Press, pp. 215-23
 [^39]: Kahneman, D.; Ritov, I.; Schkade, D.; Sherman, S. J. & Varian, H. R. (1999) “Economic preferences or attitude expressions?: An analysis of dollar responses to public issues”, _Journal of Risk and Uncertainty_ , 19, pp. 203-23
 [^40]: Hsee, C. K. & Rottenstreich, Y. (2004) “Music, Pandas, and Muggers: On the Affective Psychology of Value”, _Journal of Experimental Psychology: General_ , 133, pp. 23-3
 [^41]: Dickert, S.; Västfjäll, D.; Kleber, J. & Slovic, P. (2012) “Valuations of human lives: Normative expectations and psychological mechanisms of (ir)rationality”, _Synthese_ , 189, suppl. 1, pp. 95-10
-[^42]: Slovic, P. (2007) “[‘If I look at the mass I will never act’: Psychic numbing and genocide](http://journal.sjdm.org/jdm7303a.pdf)”, _Judgment and Decision Making Journal_ , 2, pp. 79-95 [accessed on 15 May 2017
-[^43]: Caviola, L.; Faulmüller, N.; Everett, J. A. C.; Savulescu, J. & Kahane, G. (2014) “[The evaluability bias in charitable giving: Saving administration costs or saving lives?](http://journal.sjdm.org/14/14402a/jdm14402a.pdf)”, _Judgment and Decision Making_ , 9, pp. 303-315 [accessed on 9 May 2017
+[^42]: Slovic, P. (2007) “[‘If I look at the mass I will never act’: Psychic numbing and genocide](http://journal.sjdm.org/jdm7303a.pdf)”, _Judgment and Decision Making Journal_ , 2, pp. 79-95 [accessed on 15 May 2017]
+[^43]: Caviola, L.; Faulmüller, N.; Everett, J. A. C.; Savulescu, J. & Kahane, G. (2014) “[The evaluability bias in charitable giving: Saving administration costs or saving lives?](http://journal.sjdm.org/14/14402a/jdm14402a.pdf)”, _Judgment and Decision Making_ , 9, pp. 303-315 [accessed on 9 May 2017]
 [^44]: Haidt, J. (2001) “The emotional dog and its rational tail: A social intuitionist approach to moral judgment”, _Psychological Review_ , 108, pp. 814-83
 [^45]: Slovic, P.; Zionts, D.; Woods, A.K.; Goodman, R. & Jinks, D. (2013) “Psychic numbing and mass atrocity”, in Shafir, E. (ed.) _The behavioral foundations of public policy_ , Princeton: Princeton University Press, pp. 126-14
-[^46]: Tomasik, B. (2015) “[The importance of wild-animal suffering](http://www.ledonline.it/index.php/Relations/article/view/880)”, _Relations: Beyond Anthropocentrism_ , 3, pp. 133-152 [accessed on 20 May 2017
+[^46]: Tomasik, B. (2015) “[The importance of wild-animal suffering](http://www.ledonline.it/index.php/Relations/article/view/880)”, _Relations: Beyond Anthropocentrism_ , 3, pp. 133-152 [accessed on 20 May 2017]
 
 # Why you think you're right - even when you're wrong
 
@@ -1074,8 +1091,16 @@ This is a linkpost for [https://www.ted.com/talks/julia_galef_why_you_think_you_
   <body>
     <orbit-reviewarea color="blue">
       <orbit-prompt
-        question="Why do you think you're right, even when you're wrong?"
-        answer=""
+        question="What is the soilder mindset?"
+        answer="The drive to defend your beliefs, and see the evidence in a way that supports that."
+      ></orbit-prompt>
+          <orbit-prompt
+        question="What is the scout mindset?"
+        answer="The drive to get an accurate picture or mindset, even when that's unpleasant or inconvenient"
+      ></orbit-prompt>
+      <orbit-prompt
+        question="How smart do you have to be to have the scout mindset"
+        answer="The scout mindset isn't about your knowledge or intelligence. It's about how you feel: proud for changing your mind, rather than ashamed; intrigued when something challenges your beliefs, rather than defensive."
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
@@ -1248,7 +1273,7 @@ And when it comes to purchasing expected utilons—then, of course, [shut up and
     <orbit-reviewarea color="blue">
       <orbit-prompt
         question="What does it mean to purchase your fuzzies and utilions separately?"
-        answer="Split your charity time/money into **warm fuzzies** (volunteeering, donating to a single person), **status** (donating to the current sexiest X-Prize) and **utilons** (GiveWell et al.)"
+        answer="Split your time/money into **warm fuzzies** (volunteeering, donating to a single person), **status** (or any other non-altruism-maximizing thing you care about) and **utilons** (GiveWell et al.)"
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
