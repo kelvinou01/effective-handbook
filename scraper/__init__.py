@@ -70,8 +70,16 @@ def parse_main_content(article_html):
     converter.body_width = 0
     main_content = converter.handle(str(soup))
 
-    # Convert footnotes: [1] into [^1]
-    main_content = fix_references(main_content)
+    num_references = len(get_footnote_list_items(article_html))
+    if num_references > 0:
+        # Convert footnotes: [1] into [^1]
+        main_content = fix_references(main_content)
+    else:
+        # The article doesn't actually have any footnotes at the bottom
+        # The footnote references in the article body are just links, not actual references
+        # e.g. https://forum.effectivealtruism.org/s/x3KXkiAQ6NH8WLbkW/p/ER4gAtS5LAx2T3Y98
+        # Hence, don't convert into [^1] format, which is a pattern used to denote actual references.
+        pass
 
     return main_content
 
@@ -86,7 +94,7 @@ def indent_footnote(footnote):
         return footnote
 
 
-def parse_footnotes(article_html):
+def get_footnote_list_items(article_html):
     soup = BeautifulSoup(article_html, "html.parser")
 
     converter = html2text.HTML2Text()
@@ -108,14 +116,19 @@ def parse_footnotes(article_html):
         return ""
 
     # Extract individual footnote items
-    footnotes_items = footnotes_section.find_all("li")
+    return footnotes_section.find_all("li")
+
+
+def parse_footnotes(article_html):
+    converter = html2text.HTML2Text()
+    footnotes_items = get_footnote_list_items(article_html)
 
     # Parse footnotes into the desired format
     footnotes = []
     for num, item in enumerate(footnotes_items, start=1):
         item = "".join(str(tag) for tag in item)
         footnote_text = converter.handle(str(item)).strip()
-        footnote_text = footnote_text[:-2]  # skip ' ↩'  ︎
+        footnote_text = footnote_text.replace("↩", "").rstrip()
         if footnote_text.startswith("**^**"):  # some have this, some don't
             footnote_text = footnote_text[6:]
         footnote_text = footnote_text.strip()
@@ -229,6 +242,9 @@ if __name__ == "__main__":
     with open(config.LINKS_PATH, "w") as f:
         json.dump(chapter_map, f, indent=4)
 
+    with open(config.LINKS_PATH, "r") as f:
+        chapter_map = json.load(f)
+
     for chapter, title_to_link in tqdm(chapter_map.items()):
         dirname = chapter.lower().replace(" ", "-")
         chapter_dir = os.path.join(config.RESULTS_DIR, dirname)
@@ -237,7 +253,7 @@ if __name__ == "__main__":
         bodies = []
         footers = []
 
-        for title, link in title_to_link.items():
+        for title, link in tqdm(title_to_link.items()):
             filename = title.lower().replace(" ", "-")
             article_html = scrape_raw_article(link)
             html_path = os.path.join(chapter_dir, f"{filename}.html")
