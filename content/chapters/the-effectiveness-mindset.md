@@ -1,13 +1,10 @@
 +++
-title = 'The Effectiveness Mindset'
+title = '1. The Effectiveness Mindset'
 date = 2024-01-23T01:12:26+08:00
 draft = false
 weight = 10
 +++
 
-# The Effectiveness Mindset
-
----
 
 # About this handbook
 
@@ -167,11 +164,15 @@ They’re not united by any particular solution to the world’s problems, but b
     <orbit-reviewarea color="blue">
       <orbit-prompt
         question="Why does *effective* altruism matter?"
-        answer="Some charities help 100 or 1,000 times as many people as others, when given the same amount of resources. By thinking carefully, we can help alot more. "
+        answer="
+- Some charities help 100 or 1,000 times as many people as others, when given the same amount of resources. 
+- By thinking carefully, we can help alot more. "
       ></orbit-prompt>
       <orbit-prompt
         question="Is effective altruism tied to a few cause areas or solutions?"
-        answer="EA is a way of thinking, and not any particular solution to a problem. EAs have worked on projects from distributing million malaria nets, to AI safety research, to policies to prevent pandemics"
+        answer="
+- EA is a way of thinking, and not any particular solution to a problem. 
+- EAs have worked on projects from distributing million malaria nets, to AI safety research, to policies to prevent pandemics"
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
@@ -245,20 +246,24 @@ In addition to charity, it’s possible to help the world’s poorest people thr
     <orbit-reviewarea color="blue">
       <orbit-prompt
         question="Why is preventing the next pandemic a big issue?"
-        answer="Pandemics are big in scale, tractable, and unfairly neglected.
-        Much less is spent on preventing pandemics compared to counterterrorism, while the number of deaths due to covid-19 far exceed that of terrorism."
+        answer="
+- Pandemics are big in scale, tractable, and unfairly neglected.
+- Much less is spent on preventing pandemics compared to counterterrorism, while the number of deaths due to covid-19 far exceed that of terrorism."
       ></orbit-prompt>
       <orbit-prompt
         cloze="It’s common to say that charity begins at home, but in effective altruism, charity begins {where we can help the most}."
       ></orbit-prompt>
       <orbit-prompt
         question="Why is providing basic medical supplies in poor countries a big issue?"
-        answer="Transferring resources to the very poorest people in the world can do a huge amount of good. 
-        Over 700 million people live on less than $1.90 per day. In contrast, an American living near the poverty line lives on 20 times as much, and the average American college graduate lives on about 107 times as much."
+        answer="
+- Transferring resources to the very poorest people in the world can do a huge amount of good. 
+- Over 700 million people live on less than $1.90 per day. In contrast, an American living near the poverty line lives on 20 times as much, and the average American college graduate lives on about 107 times as much."
       ></orbit-prompt>
       <orbit-prompt
         question="What does GiveWell do?"
-        answer="Research to find the most evidence-backed and cost-effective health and development projects, contributing more than $1 billion to organizations like the Against Malaria Foundation."
+        answer="
+- Research to find the most evidence-backed and cost-effective health and development projects
+- Contributed more than $1 billion to organizations like the Against Malaria Foundation."
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
@@ -354,16 +359,21 @@ The [Global Priorities Institute](https://globalprioritiesinstitute.org/) at the
       ></orbit-prompt>
       <orbit-prompt 
         question="What will happen once AI can perform at human levels?" 
-        answer="Technological progress will accelerate. A transformation with similar or greater significance to the industrial revolution will entail. "
+        answer="
+- Technological progress will accelerate. 
+- A transformation with similar or greater significance to the industrial revolution will entail. "
       ></orbit-prompt>
       <orbit-prompt
         question="Why is AI alignment a big issue?"
-        answer="Human-level AI is probably coming within this century. If handled well, AI advancements could bring prosperity, but if mismanaged, power could concentrate in the hands of a few, or worse, control could be lost."
+        answer="
+- Human-level AI is probably coming within this century. 
+- If handled well, AI advancements could bring prosperity, but if mismanaged, power could concentrate in the hands of a few, or worse, control could be lost."
       ></orbit-prompt>
       <orbit-prompt
         question="Why is ending factory farming a big issue?"
-        answer="In the US, nearly 10 billion animals suffer in factory farms in the US every year.
-        Also, about 1,400 times more animals pass through factory farms than pet shelters, but pet shelters receive much more funding."
+        answer="
+- In the US, nearly 10 billion animals suffer in factory farms in the US every year.
+- About 1,400 times more animals pass through factory farms than pet shelters, but pet shelters receive much more funding."
       ></orbit-prompt>
       <orbit-prompt
         question="Why is improving decision making a big issue?"
@@ -675,10 +685,10 @@ If they do, then the next time you think about how to make the world a better pl
     <orbit-reviewarea color="blue">
       <orbit-prompt
         question="What is effective altruism in the context of these four ideas?
-        1. It's important to help others
-        2. People are equal
-        3. Helping more is better than helping less
-        4. Our resources are limited"
+1. It's important to help others
+2. People are equal
+3. Helping more is better than helping less
+4. Our resources are limited"
         answer="If we already agree with the above four ideas, EA is just a better way to live up to values that we already hold."
       ></orbit-prompt>
       <orbit-prompt
@@ -687,11 +697,11 @@ If they do, then the next time you think about how to make the world a better pl
       ></orbit-prompt>
       <orbit-prompt
         question="What are the four ideas that most people already agree with, that are useful when EA-vangelizing people?"
-        answer="1. It's important to help others
-          2. People are equal
-        3. Helping more is better than helping less
-        4. Our resources are limited
-        "
+        answer="
+1. It's important to help others
+2. People are equal
+3. Helping more is better than helping less
+4. Our resources are limited"
       >
       </orbit-prompt>
     </orbit-reviewarea>
@@ -779,9 +789,10 @@ We know that it is possible to make the world a better place because we already 
     <orbit-reviewarea color="blue">
       <orbit-prompt
         question="From a global health and development perspective, why is it true that 'The world is awful. The world is much better. The world can be much better.'?"
-        answer="**The world is awful**: 5.5 million children died today.
-        **The world is much better**: Child mortality today is much lower than even the richest places in the past.
-        **The world can be much better**: Average child mortality across the globe is still 10x that of the healthiest places (the EU)."
+        answer="
+- **The world is awful**: 5.5 million children died today.
+- **The world is much better**: Child mortality today is much lower than even the richest places in the past.
+- **The world can be much better**: Average child mortality across the globe is still 10x that of the healthiest places (the EU)."
       ></orbit-prompt>
     </orbit-reviewarea>
   </body>
@@ -1013,7 +1024,9 @@ Hence, we cannot rely solely on our more immediate decision-making processes whe
     <orbit-reviewarea color="blue">
       <orbit-prompt
         question="Give an example of scope insensitivity"
-        answer="When asked how much people would pay to save 2000, 20000, and 200000 birds, people responded with $80, $78, and $88 respectively. The leading estimate to theh number of insects in the wild is 10^18 — we can't even begin to comprehend the amount of suffering going on."
+        answer="
+- When asked how much people would pay to save 2000, 20000, and 200000 birds, people responded with $80, $78, and $88 respectively. 
+- The leading estimate to theh number of insects in the wild is 10^18 — we can't even begin to comprehend the amount of suffering going on."
       ></orbit-prompt>
       <orbit-prompt
         question="What is the representativeness heuristic?"
@@ -1021,12 +1034,15 @@ Hence, we cannot rely solely on our more immediate decision-making processes whe
       ></orbit-prompt>
       <orbit-prompt
         question="How does the representativeness heuristic explain the scope insensitivity bias?"
-        answer="When asked how much people would pay to save 2000, 20000, and 200000 birds, people responded with $80, $78, and $88 respectively. This is because they visualized roughly the same thing, so their empathy was stimulated to roughly the same degree."
+        answer="
+- When asked how much people would pay to save 2000, 20000, and 200000 birds, people responded with $80, $78, and $88 respectively. 
+- This is because they visualized roughly the same thing, so their empathy was stimulated to roughly the same degree."
       ></orbit-prompt>
       <orbit-prompt
         question="How do we overcome scope insensitivity?"
-        answer="We cannot rely on our system 1 thinking when making moral judgements involving large numbers of individuals. 
-        TL;DR Shut up and multiply"
+        answer="
+- We cannot rely on our system 1 thinking when making moral judgements involving large numbers of individuals. 
+- TL;DR Shut up and multiply"
       ></orbit-prompt>
       <orbit-prompt
         question="What's a 'collapse of compassion'?"
